@@ -37,3 +37,4 @@ https://video.twimg.com/amplify_video/2042931053023891457/vid/avc1/1080x1234/-P3
 https://video.twimg.com/amplify_video/2036132231610245120/vid/avc1/2160x3840/p-pHECVUsf4AmoRj.mp4
 https://video.twimg.com/amplify_video/2044230811772432384/vid/avc1/800x720/1WRX7JvusURg5J9H.mp4
 https://video.twimg.com/amplify_video/2076805370664886272/vid/avc1/720x1280/lBtyrXZyCBHho3v8.mp4
+https://video.twimg.com/ext_tw_video/2042456007675392000/pu/vid/avc1/720x1280/YF2VWBH0172FixYF.mp4?tag=12
