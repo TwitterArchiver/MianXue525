@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1814174084617666560",
+    "conversation_id": "2029811223626403844",
+    "created_at": "2026-03-06T06:48:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-06T07:48:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029811223626403844"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1271278454537744384",
+          "start": 3,
+          "username": "Rabbit_Pussy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029811223626403844",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029550533703541126",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Rabbit_Pussy: 我想吃普瑞巴林，我想吃白兔，我想吃愈美片，我想吃甘草片，我想吃思诺思，我想吃氯硝西泮，我想吃耐福泮，我想吃加巴喷丁，我想吃曲马多，我想吃可待因，我想吃盐酸金刚烷胺，我想吃所有能o的药"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1814174084617666560",
+        "conversation_id": "2029811223626403844",
+        "created_at": "2026-03-06T06:48:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T07:48:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029811223626403844"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1271278454537744384",
+              "start": 3,
+              "username": "Rabbit_Pussy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029811223626403844",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029550533703541126",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Rabbit_Pussy: 我想吃普瑞巴林，我想吃白兔，我想吃愈美片，我想吃甘草片，我想吃思诺思，我想吃氯硝西泮，我想吃耐福泮，我想吃加巴喷丁，我想吃曲马多，我想吃可待因，我想吃盐酸金刚烷胺，我想吃所有能o的药"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1271278454537744384",
+        "conversation_id": "2029550533703541126",
+        "created_at": "2026-03-05T13:32:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T14:32:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029550533703541126"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2029550533703541126",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2635,
+          "like_count": 42,
+          "quote_count": 2,
+          "reply_count": 4,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "我想吃普瑞巴林，我想吃白兔，我想吃愈美片，我想吃甘草片，我想吃思诺思，我想吃氯硝西泮，我想吃耐福泮，我想吃加巴喷丁，我想吃曲马多，我想吃可待因，我想吃盐酸金刚烷胺，我想吃所有能o的药"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-19T05:43:11.000Z",
+        "description": "如果逃离了这里 请收留我",
+        "id": "1814174084617666560",
+        "name": "不眠雪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029409903560015874/Hg496_qT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 53,
+          "like_count": 292,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 41
+        },
+        "username": "MianXue525",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-12T03:09:46.000Z",
+        "description": "一只兔子和一只猫的故事",
+        "id": "1271278454537744384",
+        "location": "Niger",
+        "name": "兔毛Meow",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024655426030358528/ZGS0eBgS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4236,
+          "following_count": 2115,
+          "like_count": 27409,
+          "listed_count": 7,
+          "media_count": 1061,
+          "tweet_count": 7623
+        },
+        "username": "Rabbit_Pussy",
+        "verified": false
+      }
+    ]
+  }
+}

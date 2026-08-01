@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2039333273898536960"
+      ]
+    },
+    "author_id": "1814174084617666560",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2039333327828926527",
+    "created_at": "2026-04-01T13:25:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T14:25:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2039333327828926527"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/XvfTZdTTzU",
+          "end": 32,
+          "expanded_url": "https://x.com/MianXue525/status/2039333327828926527/photo/1",
+          "media_key": "3_2039333273898536960",
+          "start": 9,
+          "url": "https://t.co/XvfTZdTTzU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039333327828926527",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "基本告别自己做饭 https://t.co/XvfTZdTTzU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2039333273898536960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE0qzslbUAAzp9F.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039333273898536960"
+          ]
+        },
+        "author_id": "1814174084617666560",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2039333327828926527",
+        "created_at": "2026-04-01T13:25:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T14:25:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039333327828926527"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XvfTZdTTzU",
+              "end": 32,
+              "expanded_url": "https://x.com/MianXue525/status/2039333327828926527/photo/1",
+              "media_key": "3_2039333273898536960",
+              "start": 9,
+              "url": "https://t.co/XvfTZdTTzU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039333327828926527",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "基本告别自己做饭 https://t.co/XvfTZdTTzU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-19T05:43:11.000Z",
+        "description": "❄️♡⋰ ⋱♱⋰ ⋱♡⋰ ⋱♱⋰ ⋱♡⋰ ⋱♱⋰ ⋱♡ ❄️\n💉od｜双向｜精分｜餐劵｜无性别❄️\n❄️一个冰雪国度失眠的孩子若逃离了这里请收留我❄️\n❄️不眠雪 09休学 回fo餐劵od.跨妹.女孩子❄️ \n❄️网站链接提问箱欢迎来玩🫶🏻❄️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E4%B8%8D%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E4%B8%8D%E7%9C%A0%E9%9B%AA",
+                "start": 0,
+                "url": "https://t.co/lJEWqJRiAE"
+              }
+            ]
+          }
+        },
+        "id": "1814174084617666560",
+        "location": "距离你520米",
+        "name": "不眠雪❄️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032010530718904320/bue0uZZ-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1065,
+          "following_count": 318,
+          "like_count": 486,
+          "listed_count": 1,
+          "media_count": 113,
+          "tweet_count": 541
+        },
+        "url": "https://t.co/lJEWqJRiAE",
+        "username": "MianXue525",
+        "verified": true
+      }
+    ]
+  }
+}

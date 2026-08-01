@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1814174084617666560",
+    "conversation_id": "2043359838219141173",
+    "created_at": "2026-04-12T18:58:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T19:58:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043403412327538850"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2003082700350189568",
+          "start": 0,
+          "username": "zhizhimiao55"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043403412327538850",
+    "in_reply_to_user_id": "2003082700350189568",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043359838219141173",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhizhimiao55 好便宜！我最便宜的时候得73块TT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1932,
+        "media_key": "3_2043359824583557120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFt47yybgAAQcTX.jpg",
+        "width": 1169
+      },
+      {
+        "height": 1152,
+        "media_key": "3_2043359824570933248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFt47yva4AAb9BL.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1814174084617666560",
+        "conversation_id": "2043359838219141173",
+        "created_at": "2026-04-12T18:58:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T19:58:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043403412327538850"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2003082700350189568",
+              "start": 0,
+              "username": "zhizhimiao55"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043403412327538850",
+        "in_reply_to_user_id": "2003082700350189568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043359838219141173",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhizhimiao55 好便宜！我最便宜的时候得73块TT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043359824583557120",
+            "3_2043359824570933248"
+          ]
+        },
+        "author_id": "2003082700350189568",
+        "conversation_id": "2043359838219141173",
+        "created_at": "2026-04-12T16:05:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T17:05:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043359838219141173"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Yg6DpERM9c",
+              "end": 41,
+              "expanded_url": "https://x.com/zhizhimiao55/status/2043359838219141173/photo/1",
+              "media_key": "3_2043359824583557120",
+              "start": 18,
+              "url": "https://t.co/Yg6DpERM9c"
+            },
+            {
+              "display_url": "pic.x.com/Yg6DpERM9c",
+              "end": 41,
+              "expanded_url": "https://x.com/zhizhimiao55/status/2043359838219141173/photo/1",
+              "media_key": "3_2043359824570933248",
+              "start": 18,
+              "url": "https://t.co/Yg6DpERM9c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043359838219141173",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 51,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "没钱了，哪个好心人给我买呜呜呜呜呜 https://t.co/Yg6DpERM9c"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-19T05:43:11.000Z",
+        "description": "❄️♡⋰ ⋱♱⋰ ⋱♡⋰ ⋱♱⋰ ⋱♡⋰ ⋱♱⋰ ⋱♡ ❄️\n♡⋰ ♱💉od｜双向｜精分｜餐劵｜无性别❄️ ♱ ⋱♡\n♡ ❄️眠雪 09休学（回fo餐劵.od.跨妹.女孩子）❄️ ♡\n ♡⋰ 🌙 月は見ている時だけ存在💧 ⋱♡\n🐾♱❄️网站链接提问箱欢迎来玩🫶🏻❄️ ♱🐾",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E4%B8%8D%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E4%B8%8D%E7%9C%A0%E9%9B%AA",
+                "start": 0,
+                "url": "https://t.co/lJEWqJRiAE"
+              }
+            ]
+          }
+        },
+        "id": "1814174084617666560",
+        "location": "距离你520米",
+        "name": "不眠雪❄️",
+        "pinned_tweet_id": "2040247165252247975",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040922964645007360/CCSlCpXW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1912,
+          "following_count": 348,
+          "like_count": 626,
+          "listed_count": 1,
+          "media_count": 180,
+          "tweet_count": 846
+        },
+        "url": "https://t.co/lJEWqJRiAE",
+        "username": "MianXue525",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-22T12:38:45.000Z",
+        "description": "这里是小稚的精神世界_感谢观看喵～\n☆.。.:*・°☆.。.:*・°☆.。.:*・°☆\n08|处女座|重抑重焦无业游民地雷女…\n我O|割|抽_负能量爆棚 对世界无安全感\n♂🚪52🤍同类互fo喜欢我的和我交友呀！\n✞.☠᛭愿世界善待我们🩹",
+        "id": "2003082700350189568",
+        "name": "稚稚",
+        "pinned_tweet_id": "2036917673339072907",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003364476033122304/oXqwe-0-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 151,
+          "like_count": 743,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 291
+        },
+        "username": "zhizhimiao55",
+        "verified": false
+      }
+    ]
+  }
+}

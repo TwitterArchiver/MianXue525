@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2042300774609534976"
+      ]
+    },
+    "author_id": "1814174084617666560",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2042300777067397200",
+    "created_at": "2026-04-09T17:57:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T18:57:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042300777067397200"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1814174084617666560",
+          "start": 3,
+          "username": "MianXue525"
+        }
+      ],
+      "urls": [
+        {
+          "description": "Forget crushes! The Love Calculator extends your horizons to measure the love percentage between you and any Twitter user of your choice. Using a secret formula, this feature calculates the emotional compatibility you share. Just enter a Twitter handle and let the Love Calculator reveal the strength of your bond!",
+          "display_url": "infinitetweet.me/love-calculato…",
+          "end": 53,
+          "expanded_url": "https://infinitetweet.me/love-calculator?lang=zh",
+          "start": 30,
+          "status": 200,
+          "title": "Love Calculator • Infinitweet",
+          "unwound_url": "https://infinitetweet.me/love-calculator?lang=zh",
+          "url": "https://t.co/3dWM6HQq25"
+        },
+        {
+          "display_url": "pic.x.com/vmiedrtBxl",
+          "end": 77,
+          "expanded_url": "https://x.com/MianXue525/status/2042300777067397200/photo/1",
+          "media_key": "3_2042300774609534976",
+          "start": 54,
+          "url": "https://t.co/vmiedrtBxl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042300777067397200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我与 @MianXue525 的爱兼容性为 86%\n\n➡️ https://t.co/3dWM6HQq25 https://t.co/vmiedrtBxl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 550,
+        "media_key": "3_2042300774609534976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFe1u-MbQAAkMPu.png",
+        "width": 500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042300774609534976"
+          ]
+        },
+        "author_id": "1814174084617666560",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2042300777067397200",
+        "created_at": "2026-04-09T17:57:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T18:57:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042300777067397200"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1814174084617666560",
+              "start": 3,
+              "username": "MianXue525"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Forget crushes! The Love Calculator extends your horizons to measure the love percentage between you and any Twitter user of your choice. Using a secret formula, this feature calculates the emotional compatibility you share. Just enter a Twitter handle and let the Love Calculator reveal the strength of your bond!",
+              "display_url": "infinitetweet.me/love-calculato…",
+              "end": 53,
+              "expanded_url": "https://infinitetweet.me/love-calculator?lang=zh",
+              "start": 30,
+              "status": 200,
+              "title": "Love Calculator • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/love-calculator?lang=zh",
+              "url": "https://t.co/3dWM6HQq25"
+            },
+            {
+              "display_url": "pic.x.com/vmiedrtBxl",
+              "end": 77,
+              "expanded_url": "https://x.com/MianXue525/status/2042300777067397200/photo/1",
+              "media_key": "3_2042300774609534976",
+              "start": 54,
+              "url": "https://t.co/vmiedrtBxl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042300777067397200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我与 @MianXue525 的爱兼容性为 86%\n\n➡️ https://t.co/3dWM6HQq25 https://t.co/vmiedrtBxl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-19T05:43:11.000Z",
+        "description": "❄️♡⋰ ⋱♱⋰ ⋱♡⋰ ⋱♱⋰ ⋱♡⋰ ⋱♱⋰ ⋱♡ ❄️\n♡⋰ ♱💉od｜双向｜精分｜餐劵｜无性别❄️ ♱ ⋱♡\n♡ ❄️眠雪 09休学（回fo餐劵.od.跨妹.女孩子）❄️ ♡\n ♡⋰ 🌙 月は見ている時だけ存在💧 ⋱♡\n🐾♱❄️网站链接提问箱欢迎来玩🫶🏻❄️ ♱🐾",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E4%B8%8D%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E4%B8%8D%E7%9C%A0%E9%9B%AA",
+                "start": 0,
+                "url": "https://t.co/lJEWqJRiAE"
+              }
+            ]
+          }
+        },
+        "id": "1814174084617666560",
+        "location": "距离你520米",
+        "name": "不眠雪❄️",
+        "pinned_tweet_id": "2040247165252247975",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040922964645007360/CCSlCpXW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1874,
+          "following_count": 338,
+          "like_count": 571,
+          "listed_count": 1,
+          "media_count": 158,
+          "tweet_count": 724
+        },
+        "url": "https://t.co/lJEWqJRiAE",
+        "username": "MianXue525",
+        "verified": true
+      }
+    ]
+  }
+}

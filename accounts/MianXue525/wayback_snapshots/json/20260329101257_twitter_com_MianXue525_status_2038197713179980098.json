@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1814174084617666560",
+    "conversation_id": "2038012907875901584",
+    "created_at": "2026-03-29T10:12:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T11:12:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038197713179980098"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1129053958507454464",
+          "start": 0,
+          "username": "genres17"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038197713179980098",
+    "in_reply_to_user_id": "1129053958507454464",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038197384539476099",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@genres17 因为身边没有真实的她陪伴了🥺🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1814174084617666560",
+        "conversation_id": "2038012907875901584",
+        "created_at": "2026-03-29T10:12:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T11:12:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038197713179980098"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1129053958507454464",
+              "start": 0,
+              "username": "genres17"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038197713179980098",
+        "in_reply_to_user_id": "1129053958507454464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038197384539476099",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@genres17 因为身边没有真实的她陪伴了🥺🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1129053958507454464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1364667946291798017",
+              "name": "Study abroad"
+            }
+          }
+        ],
+        "conversation_id": "2038012907875901584",
+        "created_at": "2026-03-29T10:11:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T11:11:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038197384539476099"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1814174084617666560",
+              "start": 0,
+              "username": "MianXue525"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038197384539476099",
+        "in_reply_to_user_id": "1814174084617666560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038012907875901584",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MianXue525 去日本留学又不是不回来了，而且可以休息时间视频电话聊天呀。条件允许的话，去日本玩的时候也多了一个向导"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-19T05:43:11.000Z",
+        "description": "❄️♡⋰ ⋱♱⋰ ⋱♡⋰ ⋱♱⋰ ⋱♡⋰ ⋱♱⋰ ⋱♡ ❄️\n💉od｜双向｜精分｜餐劵｜无性别❄️\n❄️一个冰雪国度失眠的孩子若逃离了这里请收留我❄️\n❄️不眠雪 09休学 回fo餐劵od.跨妹.女孩子❄️ \n❄️网站链接提问箱欢迎来玩🫶🏻❄️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E4%B8%8D%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E4%B8%8D%E7%9C%A0%E9%9B%AA",
+                "start": 0,
+                "url": "https://t.co/lJEWqJRiAE"
+              }
+            ]
+          }
+        },
+        "id": "1814174084617666560",
+        "location": "距离你520米",
+        "name": "不眠雪❄️",
+        "pinned_tweet_id": "2037448294901911594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032010530718904320/bue0uZZ-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1046,
+          "following_count": 313,
+          "like_count": 468,
+          "listed_count": 1,
+          "media_count": 110,
+          "tweet_count": 516
+        },
+        "url": "https://t.co/lJEWqJRiAE",
+        "username": "MianXue525",
+        "verified": true
+      },
+      {
+        "created_at": "2019-05-16T16:00:15.000Z",
+        "description": "A princess connect Chinese player.\nMandarin and English are available here.\nLearning English, programming and making friends on Twitter.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "en.whotwi.com/genres17",
+                "end": 23,
+                "expanded_url": "https://en.whotwi.com/genres17",
+                "start": 0,
+                "url": "https://t.co/K1bKv2E4l5"
+              }
+            ]
+          }
+        },
+        "id": "1129053958507454464",
+        "name": "genres🌱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791444024139943936/DvJeZZ8u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 336,
+          "following_count": 187,
+          "like_count": 8289,
+          "listed_count": 3,
+          "media_count": 390,
+          "tweet_count": 4446
+        },
+        "url": "https://t.co/K1bKv2E4l5",
+        "username": "genres17",
+        "verified": false
+      }
+    ]
+  }
+}

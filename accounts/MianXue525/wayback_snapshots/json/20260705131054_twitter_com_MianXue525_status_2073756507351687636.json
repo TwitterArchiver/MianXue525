@@ -1,0 +1,457 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073423015107571712",
+        "3_2073423015111725056",
+        "3_2073423015149543424",
+        "3_2073423015115890689"
+      ],
+      "media_source_tweet_id": [
+        "2073423024469250275",
+        "2073423024469250275",
+        "2073423024469250275",
+        "2073423024469250275"
+      ]
+    },
+    "author_id": "1814174084617666560",
+    "conversation_id": "2073756507351687636",
+    "created_at": "2026-07-05T13:10:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T14:10:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073756507351687636"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 69,
+          "start": 65,
+          "tag": "トー横"
+        },
+        {
+          "end": 74,
+          "start": 70,
+          "tag": "地雷系"
+        },
+        {
+          "end": 87,
+          "start": 75,
+          "tag": "病み垢さんと繋がりたい"
+        },
+        {
+          "end": 94,
+          "start": 88,
+          "tag": "自撮り界隈"
+        },
+        {
+          "end": 99,
+          "start": 95,
+          "tag": "fyp"
+        },
+        {
+          "end": 105,
+          "start": 100,
+          "tag": "サブカル"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2038073026043138048",
+          "start": 3,
+          "username": "kamishiroruru"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ws736YPONw",
+          "end": 129,
+          "expanded_url": "https://x.com/kamishiroruru/status/2073423024469250275/photo/1",
+          "media_key": "3_2073423015107571712",
+          "start": 106,
+          "url": "https://t.co/Ws736YPONw"
+        },
+        {
+          "display_url": "pic.x.com/Ws736YPONw",
+          "end": 129,
+          "expanded_url": "https://x.com/kamishiroruru/status/2073423024469250275/photo/1",
+          "media_key": "3_2073423015111725056",
+          "start": 106,
+          "url": "https://t.co/Ws736YPONw"
+        },
+        {
+          "display_url": "pic.x.com/Ws736YPONw",
+          "end": 129,
+          "expanded_url": "https://x.com/kamishiroruru/status/2073423024469250275/photo/1",
+          "media_key": "3_2073423015149543424",
+          "start": 106,
+          "url": "https://t.co/Ws736YPONw"
+        },
+        {
+          "display_url": "pic.x.com/Ws736YPONw",
+          "end": 129,
+          "expanded_url": "https://x.com/kamishiroruru/status/2073423024469250275/photo/1",
+          "media_key": "3_2073423015115890689",
+          "start": 106,
+          "url": "https://t.co/Ws736YPONw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073756507351687636",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073423024469250275",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kamishiroruru: 昨日のルルです！でもさ、昨日酒を飲みすぎてゾンビになり、皆さんにご迷惑をおかけしました😓😓\n#トー横 #地雷系 #病み垢さんと繋がりたい #自撮り界隈 #fyp #サブカル https://t.co/Ws736YPONw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2073423015107571712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMZHPyybMAAYHni.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2073423015111725056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMZHPyzakAA00Ic.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2073423015149543424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMZHPy8boAABAS0.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2073423015115890689",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMZHPy0aIAEoVJ7.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073423015107571712",
+            "3_2073423015111725056",
+            "3_2073423015149543424",
+            "3_2073423015115890689"
+          ],
+          "media_source_tweet_id": [
+            "2073423024469250275",
+            "2073423024469250275",
+            "2073423024469250275",
+            "2073423024469250275"
+          ]
+        },
+        "author_id": "1814174084617666560",
+        "conversation_id": "2073756507351687636",
+        "created_at": "2026-07-05T13:10:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T14:10:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073756507351687636"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 69,
+              "start": 65,
+              "tag": "トー横"
+            },
+            {
+              "end": 74,
+              "start": 70,
+              "tag": "地雷系"
+            },
+            {
+              "end": 87,
+              "start": 75,
+              "tag": "病み垢さんと繋がりたい"
+            },
+            {
+              "end": 94,
+              "start": 88,
+              "tag": "自撮り界隈"
+            },
+            {
+              "end": 99,
+              "start": 95,
+              "tag": "fyp"
+            },
+            {
+              "end": 105,
+              "start": 100,
+              "tag": "サブカル"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2038073026043138048",
+              "start": 3,
+              "username": "kamishiroruru"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ws736YPONw",
+              "end": 129,
+              "expanded_url": "https://x.com/kamishiroruru/status/2073423024469250275/photo/1",
+              "media_key": "3_2073423015107571712",
+              "start": 106,
+              "url": "https://t.co/Ws736YPONw"
+            },
+            {
+              "display_url": "pic.x.com/Ws736YPONw",
+              "end": 129,
+              "expanded_url": "https://x.com/kamishiroruru/status/2073423024469250275/photo/1",
+              "media_key": "3_2073423015111725056",
+              "start": 106,
+              "url": "https://t.co/Ws736YPONw"
+            },
+            {
+              "display_url": "pic.x.com/Ws736YPONw",
+              "end": 129,
+              "expanded_url": "https://x.com/kamishiroruru/status/2073423024469250275/photo/1",
+              "media_key": "3_2073423015149543424",
+              "start": 106,
+              "url": "https://t.co/Ws736YPONw"
+            },
+            {
+              "display_url": "pic.x.com/Ws736YPONw",
+              "end": 129,
+              "expanded_url": "https://x.com/kamishiroruru/status/2073423024469250275/photo/1",
+              "media_key": "3_2073423015115890689",
+              "start": 106,
+              "url": "https://t.co/Ws736YPONw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073756507351687636",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073423024469250275",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kamishiroruru: 昨日のルルです！でもさ、昨日酒を飲みすぎてゾンビになり、皆さんにご迷惑をおかけしました😓😓\n#トー横 #地雷系 #病み垢さんと繋がりたい #自撮り界隈 #fyp #サブカル https://t.co/Ws736YPONw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073423015107571712",
+            "3_2073423015111725056",
+            "3_2073423015149543424",
+            "3_2073423015115890689"
+          ]
+        },
+        "author_id": "2038073026043138048",
+        "conversation_id": "2073423024469250275",
+        "created_at": "2026-07-04T15:05:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T16:05:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073423024469250275"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 50,
+              "start": 46,
+              "tag": "トー横"
+            },
+            {
+              "end": 55,
+              "start": 51,
+              "tag": "地雷系"
+            },
+            {
+              "end": 68,
+              "start": 56,
+              "tag": "病み垢さんと繋がりたい"
+            },
+            {
+              "end": 75,
+              "start": 69,
+              "tag": "自撮り界隈"
+            },
+            {
+              "end": 80,
+              "start": 76,
+              "tag": "fyp"
+            },
+            {
+              "end": 86,
+              "start": 81,
+              "tag": "サブカル"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ws736YPONw",
+              "end": 110,
+              "expanded_url": "https://x.com/kamishiroruru/status/2073423024469250275/photo/1",
+              "media_key": "3_2073423015107571712",
+              "start": 87,
+              "url": "https://t.co/Ws736YPONw"
+            },
+            {
+              "display_url": "pic.x.com/Ws736YPONw",
+              "end": 110,
+              "expanded_url": "https://x.com/kamishiroruru/status/2073423024469250275/photo/1",
+              "media_key": "3_2073423015111725056",
+              "start": 87,
+              "url": "https://t.co/Ws736YPONw"
+            },
+            {
+              "display_url": "pic.x.com/Ws736YPONw",
+              "end": 110,
+              "expanded_url": "https://x.com/kamishiroruru/status/2073423024469250275/photo/1",
+              "media_key": "3_2073423015149543424",
+              "start": 87,
+              "url": "https://t.co/Ws736YPONw"
+            },
+            {
+              "display_url": "pic.x.com/Ws736YPONw",
+              "end": 110,
+              "expanded_url": "https://x.com/kamishiroruru/status/2073423024469250275/photo/1",
+              "media_key": "3_2073423015115890689",
+              "start": 87,
+              "url": "https://t.co/Ws736YPONw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073423024469250275",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1018,
+          "like_count": 37,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "昨日のルルです！でもさ、昨日酒を飲みすぎてゾンビになり、皆さんにご迷惑をおかけしました😓😓\n#トー横 #地雷系 #病み垢さんと繋がりたい #自撮り界隈 #fyp #サブカル https://t.co/Ws736YPONw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-19T05:43:11.000Z",
+        "description": "❄️♡⋰ ⋱♱⋰ ⋱♡⋰ ⋱♱⋰ ⋱♡⋰ ⋱♱⋰ ⋱♡ ❄️\n♡⋰ ♱💉od｜双向｜精分｜餐劵｜无性别❄️ ♱ ⋱♡\n♡ ❄️眠雪 09休学（回fo餐劵.od.跨妹.女孩子）❄️ ♡\n ♡⋰ 🌙 月は見ている時だけ存在💧 ⋱♡\n🐾♱❄️网站链接提问箱欢迎来玩🫶🏻❄️ ♱🐾",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E4%B8%8D%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E4%B8%8D%E7%9C%A0%E9%9B%AA",
+                "start": 0,
+                "url": "https://t.co/lJEWqJRiAE"
+              }
+            ]
+          }
+        },
+        "id": "1814174084617666560",
+        "location": "距离你520米",
+        "name": "不眠雪❄️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040922964645007360/CCSlCpXW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1998,
+          "following_count": 313,
+          "like_count": 724,
+          "listed_count": 0,
+          "media_count": 198,
+          "tweet_count": 1006
+        },
+        "url": "https://t.co/lJEWqJRiAE",
+        "username": "MianXue525",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-29T01:59:43.000Z",
+        "description": "言語能力 🇯🇵🇨🇳英語難しいごめんなさい🙇‍♀️\n出身天国の黒猫です！🐈‍⬛名前はルルです！\n永遠に十四歳！可愛い子のです🍥\n好きな物:🩸血、洋服、✨全部可愛いの物🎀\n自傷行為があるよぉ🫠ごめんなさ",
+        "id": "2038073026043138048",
+        "location": "新宿区",
+        "name": "神代露露",
+        "pinned_tweet_id": "2055655561426096498",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038081008072019968/adneBrv7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 162,
+          "following_count": 48,
+          "like_count": 57,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 88
+        },
+        "url": "",
+        "username": "kamishiroruru",
+        "verified": false
+      }
+    ]
+  }
+}

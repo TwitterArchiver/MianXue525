@@ -1,0 +1,318 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1814174084617666560",
+    "conversation_id": "2040856718616535535",
+    "created_at": "2026-04-05T18:20:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T19:20:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040857030949482573"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2040857030949482573",
+    "in_reply_to_user_id": "1814174084617666560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040856718616535535",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好多好多人💕直接复制豆包了☺️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1814174084617666560",
+        "conversation_id": "2040856718616535535",
+        "created_at": "2026-04-05T18:20:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T19:20:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040857030949482573"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2040857030949482573",
+        "in_reply_to_user_id": "1814174084617666560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040856718616535535",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好多好多人💕直接复制豆包了☺️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1814174084617666560",
+        "conversation_id": "2040856718616535535",
+        "created_at": "2026-04-05T18:18:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T19:18:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040856718616535535"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 113,
+              "id": "1970857021588262912",
+              "start": 97,
+              "username": "RainEngine_2024"
+            },
+            {
+              "end": 138,
+              "id": "2003082700350189568",
+              "start": 125,
+              "username": "zhizhimiao55"
+            },
+            {
+              "end": 184,
+              "id": "1820207828931424256",
+              "start": 172,
+              "username": "neko0202002"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040856718616535535",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 113,
+                "id": "1970857021588262912",
+                "start": 97,
+                "username": "RainEngine_2024"
+              },
+              {
+                "end": 138,
+                "id": "2003082700350189568",
+                "start": 125,
+                "username": "zhizhimiao55"
+              },
+              {
+                "end": 184,
+                "id": "1820207828931424256",
+                "start": 172,
+                "username": "neko0202002"
+              },
+              {
+                "end": 207,
+                "id": "1735656945753702400",
+                "start": 196,
+                "username": "chend06237"
+              },
+              {
+                "end": 234,
+                "id": "1563508655256850433",
+                "start": 218,
+                "username": "Starrynightwglf"
+              },
+              {
+                "end": 278,
+                "id": "1961388090670653440",
+                "start": 269,
+                "username": "usiisjkj"
+              },
+              {
+                "end": 306,
+                "id": "1546104577161760768",
+                "start": 298,
+                "username": "R0y0o0u"
+              },
+              {
+                "end": 334,
+                "id": "1903126320697184257",
+                "start": 318,
+                "username": "cyberpsychosisR"
+              },
+              {
+                "end": 378,
+                "id": "1765896236597706752",
+                "start": 363,
+                "username": "frank966911104"
+              },
+              {
+                "end": 400,
+                "id": "1641968587102621696",
+                "start": 390,
+                "username": "0voki33Me"
+              },
+              {
+                "end": 426,
+                "id": "1564990471327215619",
+                "start": 412,
+                "username": "bisco91395061"
+              },
+              {
+                "end": 455,
+                "id": "1910709382603825154",
+                "start": 443,
+                "username": "SHIIII_1201"
+              },
+              {
+                "end": 481,
+                "id": "2014723682548224000",
+                "start": 466,
+                "username": "FanQie_CaoDamn"
+              },
+              {
+                "end": 506,
+                "id": "1589235830731997188",
+                "start": 496,
+                "username": "PWaterawa"
+              },
+              {
+                "end": 525,
+                "id": "1997308154946961408",
+                "start": 517,
+                "username": "kndbxls"
+              },
+              {
+                "end": 564,
+                "id": "1917804398824022016",
+                "start": 552,
+                "username": "lne_li19885"
+              },
+              {
+                "end": 595,
+                "id": "2016171535179120642",
+                "start": 582,
+                "username": "xiedielianyu"
+              },
+              {
+                "end": 621,
+                "id": "1999007250829230080",
+                "start": 607,
+                "username": "DDaquaforever"
+              },
+              {
+                "end": 661,
+                "id": "1819554838075883520",
+                "start": 650,
+                "username": "ojo2222c_c"
+              },
+              {
+                "end": 683,
+                "id": "1118826381587009536",
+                "start": 673,
+                "username": "1918Waist"
+              },
+              {
+                "end": 712,
+                "id": "1568430640428875776",
+                "start": 698,
+                "username": "YesStrayPuppy"
+              },
+              {
+                "end": 740,
+                "id": "1777730090924978176",
+                "start": 728,
+                "username": "Hiiragi_qin"
+              },
+              {
+                "end": 765,
+                "id": "2030832351656493056",
+                "start": 752,
+                "username": "Suintouhea2t"
+              }
+            ]
+          },
+          "text": "🎉 眠眠1520粉抽奖结果公示✨\n\n本次已全程重新随机，确保所有中奖者无重复、绝对公平，感谢每一位宝子的参与和喜爱🥰\n🏆 中奖名单公示\n\n一等奖（普瑞巴林*2 / 折现39¥）· 2人\n\n1. @RainEngine_2024 （𝑼𝒏𝒌🍥）\n\n2. @zhizhimiao55 （稚稚）\n\n二等奖（愈美片*2 / 折现20¥）· 3人\n\n1. @neko0202002 （妃宫千早）\n\n2. @chend06237 （玻璃貓）\n\n3. @Starrynightwglf （风🎐）\n\n三等奖（雪王甜筒*1 / 折现2¥）· 10人\n\n1. @usiisjkj （寒蝉鸣泣之时幸福才会来临）\n\n2. @R0y0o0u （Ryou）\n\n3. @cyberpsychosisR （Outside me, inside me）\n\n4. @frank966911104 （冬日恋歌）\n\n5. @0voki33Me （4w4y）\n\n6. @bisco91395061 （愛我請給我pr80）\n\n7. @SHIIII_1201 （s 诗）\n\n8. @FanQie_CaoDamn （番茄操蛋5.0）\n\n9. @PWaterawa （汐汐）\n\n10. @kndbxls （予安🍥）\n\n5.20¥心意红包 · 3人\n\n1. @lne_li19885 （Painkiller）\n\n2. @xiedielianyu （谢蝶恋雨）\n\n3. @DDaquaforever （早露泡泡兔）\n\n1.88¥心意红包 · 5人\n\n1. @ojo2222c_c （良好市民）\n\n2. @1918Waist （被宇宙斬斷的腰）\n\n3. @YesStrayPuppy （看见我喊我去学习）\n\n4. @Hiiragi_qin （ヒイラギ）\n\n5. @Suintouhea2t （Moe）\n📮 兑奖须知\n\n请所有中奖的宝子72小时内私信我你的收款方式哦~\n逾期未联系将视为自动放弃福利，感谢大家的理解🥺\n\n再次谢谢所有宝子的陪伴和喜欢！未来也会继续给大家带来更多小福利，爱你们💖\n✅ 补充核对清单（发奖用）\n奖项 金额 人数 总金额 \n一等奖 39¥ 2人 78¥ \n二等奖 20¥ 3人 60¥ \n三等奖 2¥ 10人 20¥ \n5.20¥红包 5.20¥ 3人 15.6¥ \n1.88¥红包 1.88¥ 5人 9.4¥ \n合计 - 23人 183¥"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🎉 眠眠1520粉抽奖结果公示✨\n\n本次已全程重新随机，确保所有中奖者无重复、绝对公平，感谢每一位宝子的参与和喜爱🥰\n🏆 中奖名单公示\n\n一等奖（普瑞巴林*2 / 折现39¥）· 2人\n\n1. @RainEngine_2024 （𝑼𝒏𝒌🍥）\n\n2. @zhizhimiao55 （稚稚）\n\n二等奖（愈美片*2 / 折现20¥）· 3人\n\n1. @neko0202002"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-19T05:43:11.000Z",
+        "description": "❄️♡⋰ ⋱♱⋰ ⋱♡⋰ ⋱♱⋰ ⋱♡⋰ ⋱♱⋰ ⋱♡ ❄️\n♡⋰ ♱💉od｜双向｜精分｜餐劵｜无性别❄️ ♱ ⋱♡\n♡❄️不眠雪 09休学 回fo餐劵.od.跨妹.女孩子❄️ ♡\n ♡⋰ 🌙 月は見ている時だけ存在💧 ⋱♡\n🐾♱❄️网站链接提问箱欢迎来玩🫶🏻❄️ ♱🐾",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E4%B8%8D%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E4%B8%8D%E7%9C%A0%E9%9B%AA",
+                "start": 0,
+                "url": "https://t.co/lJEWqJRiAE"
+              }
+            ]
+          }
+        },
+        "id": "1814174084617666560",
+        "location": "距离你520米",
+        "name": "不眠雪❄️",
+        "pinned_tweet_id": "2040247165252247975",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040850692127215616/c2JnP7xx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1695,
+          "following_count": 330,
+          "like_count": 525,
+          "listed_count": 1,
+          "media_count": 143,
+          "tweet_count": 644
+        },
+        "url": "https://t.co/lJEWqJRiAE",
+        "username": "MianXue525",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2032801789679132673",
+        "3_2032801789658234880"
+      ]
+    },
+    "author_id": "1814174084617666560",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2032801804204040687",
+    "created_at": "2026-03-14T12:51:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-14T13:51:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2032801804204040687"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/cTxQX2JPUM",
+          "end": 41,
+          "expanded_url": "https://x.com/MianXue525/status/2032801804204040687/photo/1",
+          "media_key": "3_2032801789679132673",
+          "start": 18,
+          "url": "https://t.co/cTxQX2JPUM"
+        },
+        {
+          "display_url": "pic.x.com/cTxQX2JPUM",
+          "end": 41,
+          "expanded_url": "https://x.com/MianXue525/status/2032801804204040687/photo/1",
+          "media_key": "3_2032801789658234880",
+          "start": 18,
+          "url": "https://t.co/cTxQX2JPUM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032801804204040687",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "请党放心3750mg普瑞80已服用 https://t.co/cTxQX2JPUM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1732,
+        "media_key": "3_2032801789679132673",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDX2dRyaYAECUeP.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2032801789658234880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDX2dRtbgAAWPdX.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032801789679132673",
+            "3_2032801789658234880"
+          ]
+        },
+        "author_id": "1814174084617666560",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2032801804204040687",
+        "created_at": "2026-03-14T12:51:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T13:51:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032801804204040687"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cTxQX2JPUM",
+              "end": 41,
+              "expanded_url": "https://x.com/MianXue525/status/2032801804204040687/photo/1",
+              "media_key": "3_2032801789679132673",
+              "start": 18,
+              "url": "https://t.co/cTxQX2JPUM"
+            },
+            {
+              "display_url": "pic.x.com/cTxQX2JPUM",
+              "end": 41,
+              "expanded_url": "https://x.com/MianXue525/status/2032801804204040687/photo/1",
+              "media_key": "3_2032801789658234880",
+              "start": 18,
+              "url": "https://t.co/cTxQX2JPUM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032801804204040687",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "请党放心3750mg普瑞80已服用 https://t.co/cTxQX2JPUM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-19T05:43:11.000Z",
+        "description": "如果逃离了这里 请收留我",
+        "id": "1814174084617666560",
+        "name": "不眠雪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032010530718904320/bue0uZZ-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 492,
+          "following_count": 250,
+          "like_count": 373,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 243
+        },
+        "username": "MianXue525",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1814174084617666560",
+    "conversation_id": "2032117253815304535",
+    "created_at": "2026-03-12T19:34:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-12T20:34:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032178374307954845"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2032178374307954845",
+    "in_reply_to_user_id": "1814174084617666560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032117253815304535",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这个好可怕我看到这个我好难受"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 341,
+        "media_key": "3_2032117238174822400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDOH3ItbsAAarY8.jpg",
+        "width": 686
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1814174084617666560",
+        "conversation_id": "2032117253815304535",
+        "created_at": "2026-03-12T19:34:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T20:34:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032178374307954845"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2032178374307954845",
+        "in_reply_to_user_id": "1814174084617666560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032117253815304535",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这个好可怕我看到这个我好难受"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032117238174822400"
+          ]
+        },
+        "author_id": "1814174084617666560",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2032117253815304535",
+        "created_at": "2026-03-12T15:31:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T16:31:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032117253815304535"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MZvXCrG6B1",
+              "end": 42,
+              "expanded_url": "https://x.com/MianXue525/status/2032117253815304535/photo/1",
+              "media_key": "3_2032117238174822400",
+              "start": 19,
+              "url": "https://t.co/MZvXCrG6B1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032117253815304535",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 237,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的小号坠机了hh我可能也会消失吧！ https://t.co/MZvXCrG6B1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-19T05:43:11.000Z",
+        "description": "如果逃离了这里 请收留我",
+        "id": "1814174084617666560",
+        "name": "不眠雪",
+        "pinned_tweet_id": "2032097446290211194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032010530718904320/bue0uZZ-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 374,
+          "following_count": 218,
+          "like_count": 361,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 200
+        },
+        "username": "MianXue525",
+        "verified": false
+      }
+    ]
+  }
+}

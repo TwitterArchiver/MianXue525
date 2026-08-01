@@ -1,0 +1,425 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073757195972612096",
+        "3_2073757195934806016"
+      ],
+      "media_source_tweet_id": [
+        "2073757203371311234",
+        "2073757203371311234"
+      ]
+    },
+    "author_id": "1814174084617666560",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2073757454018675060",
+    "created_at": "2026-07-05T13:14:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T14:14:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073757454018675060"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 63,
+          "start": 57,
+          "tag": "自撮り界隈"
+        },
+        {
+          "end": 68,
+          "start": 64,
+          "tag": "地雷系"
+        },
+        {
+          "end": 81,
+          "start": 69,
+          "tag": "病み垢さんと繋がりたい"
+        },
+        {
+          "end": 87,
+          "start": 82,
+          "tag": "サブカル"
+        },
+        {
+          "end": 92,
+          "start": 88,
+          "tag": "fyp"
+        },
+        {
+          "end": 97,
+          "start": 93,
+          "tag": "トー横"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2038073026043138048",
+          "start": 3,
+          "username": "kamishiroruru"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4XRsVzTjFj",
+          "end": 121,
+          "expanded_url": "https://x.com/kamishiroruru/status/2073757203371311234/photo/1",
+          "media_key": "3_2073757195972612096",
+          "start": 98,
+          "url": "https://t.co/4XRsVzTjFj"
+        },
+        {
+          "display_url": "pic.x.com/4XRsVzTjFj",
+          "end": 121,
+          "expanded_url": "https://x.com/kamishiroruru/status/2073757203371311234/photo/1",
+          "media_key": "3_2073757195934806016",
+          "start": 98,
+          "url": "https://t.co/4XRsVzTjFj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073757454018675060",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073757203371311234",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kamishiroruru: たぶん私の自己紹介でしょう！ 私のことが好きな方は相互フォローしてください\n#自撮り界隈 #地雷系 #病み垢さんと繋がりたい #サブカル #fyp #トー横 https://t.co/4XRsVzTjFj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2073757195972612096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMd3LrhbkAA8yeW.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2073757195934806016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMd3LrYasAA9fMx.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073757195972612096",
+            "3_2073757195934806016"
+          ],
+          "media_source_tweet_id": [
+            "2073757203371311234",
+            "2073757203371311234"
+          ]
+        },
+        "author_id": "1814174084617666560",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2073757454018675060",
+        "created_at": "2026-07-05T13:14:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T14:14:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073757454018675060"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 63,
+              "start": 57,
+              "tag": "自撮り界隈"
+            },
+            {
+              "end": 68,
+              "start": 64,
+              "tag": "地雷系"
+            },
+            {
+              "end": 81,
+              "start": 69,
+              "tag": "病み垢さんと繋がりたい"
+            },
+            {
+              "end": 87,
+              "start": 82,
+              "tag": "サブカル"
+            },
+            {
+              "end": 92,
+              "start": 88,
+              "tag": "fyp"
+            },
+            {
+              "end": 97,
+              "start": 93,
+              "tag": "トー横"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2038073026043138048",
+              "start": 3,
+              "username": "kamishiroruru"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4XRsVzTjFj",
+              "end": 121,
+              "expanded_url": "https://x.com/kamishiroruru/status/2073757203371311234/photo/1",
+              "media_key": "3_2073757195972612096",
+              "start": 98,
+              "url": "https://t.co/4XRsVzTjFj"
+            },
+            {
+              "display_url": "pic.x.com/4XRsVzTjFj",
+              "end": 121,
+              "expanded_url": "https://x.com/kamishiroruru/status/2073757203371311234/photo/1",
+              "media_key": "3_2073757195934806016",
+              "start": 98,
+              "url": "https://t.co/4XRsVzTjFj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073757454018675060",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073757203371311234",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kamishiroruru: たぶん私の自己紹介でしょう！ 私のことが好きな方は相互フォローしてください\n#自撮り界隈 #地雷系 #病み垢さんと繋がりたい #サブカル #fyp #トー横 https://t.co/4XRsVzTjFj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073757195972612096",
+            "3_2073757195934806016"
+          ]
+        },
+        "author_id": "2038073026043138048",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2073757203371311234",
+        "created_at": "2026-07-05T13:13:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T14:13:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073757203371311234"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 44,
+              "start": 38,
+              "tag": "自撮り界隈"
+            },
+            {
+              "end": 49,
+              "start": 45,
+              "tag": "地雷系"
+            },
+            {
+              "end": 62,
+              "start": 50,
+              "tag": "病み垢さんと繋がりたい"
+            },
+            {
+              "end": 68,
+              "start": 63,
+              "tag": "サブカル"
+            },
+            {
+              "end": 73,
+              "start": 69,
+              "tag": "fyp"
+            },
+            {
+              "end": 78,
+              "start": 74,
+              "tag": "トー横"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4XRsVzTjFj",
+              "end": 102,
+              "expanded_url": "https://x.com/kamishiroruru/status/2073757203371311234/photo/1",
+              "media_key": "3_2073757195972612096",
+              "start": 79,
+              "url": "https://t.co/4XRsVzTjFj"
+            },
+            {
+              "display_url": "pic.x.com/4XRsVzTjFj",
+              "end": 102,
+              "expanded_url": "https://x.com/kamishiroruru/status/2073757203371311234/photo/1",
+              "media_key": "3_2073757195934806016",
+              "start": 79,
+              "url": "https://t.co/4XRsVzTjFj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073757203371311234",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "たぶん私の自己紹介でしょう！ 私のことが好きな方は相互フォローしてください\n#自撮り界隈 #地雷系 #病み垢さんと繋がりたい #サブカル #fyp #トー横 https://t.co/4XRsVzTjFj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-19T05:43:11.000Z",
+        "description": "❄️♡⋰ ⋱♱⋰ ⋱♡⋰ ⋱♱⋰ ⋱♡⋰ ⋱♱⋰ ⋱♡ ❄️\n♡⋰ ♱💉od｜双向｜精分｜餐劵｜无性别❄️ ♱ ⋱♡\n♡ ❄️眠雪 09休学（回fo餐劵.od.跨妹.女孩子）❄️ ♡\n ♡⋰ 🌙 月は見ている時だけ存在💧 ⋱♡\n🐾♱❄️网站链接提问箱欢迎来玩🫶🏻❄️ ♱🐾",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E4%B8%8D%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E4%B8%8D%E7%9C%A0%E9%9B%AA",
+                "start": 0,
+                "url": "https://t.co/lJEWqJRiAE"
+              }
+            ]
+          }
+        },
+        "id": "1814174084617666560",
+        "location": "距离你520米",
+        "name": "不眠雪❄️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040922964645007360/CCSlCpXW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1998,
+          "following_count": 313,
+          "like_count": 724,
+          "listed_count": 0,
+          "media_count": 198,
+          "tweet_count": 1008
+        },
+        "url": "https://t.co/lJEWqJRiAE",
+        "username": "MianXue525",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-29T01:59:43.000Z",
+        "description": "言語能力 🇯🇵🇨🇳英語難しいごめんなさい🙇‍♀️\n出身天国の黒猫です！🐈‍⬛名前はルルです！\n永遠に十四歳！可愛い子のです🍥\n好きな物:🩸血、洋服、✨全部可愛いの物🎀\n自傷行為があるよぉ🫠ごめんなさ",
+        "id": "2038073026043138048",
+        "location": "新宿区",
+        "name": "神代露露",
+        "pinned_tweet_id": "2055655561426096498",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038081008072019968/adneBrv7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 162,
+          "following_count": 48,
+          "like_count": 58,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 89
+        },
+        "url": "",
+        "username": "kamishiroruru",
+        "verified": false
+      }
+    ]
+  }
+}

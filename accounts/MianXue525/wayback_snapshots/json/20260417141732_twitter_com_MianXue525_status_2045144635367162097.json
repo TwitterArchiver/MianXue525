@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1814174084617666560",
+    "conversation_id": "2045144635367162097",
+    "created_at": "2026-04-17T14:17:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T15:17:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045144635367162097"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2045022236201918465",
+          "start": 3,
+          "username": "cVPrL20wIa42392"
+        },
+        {
+          "end": 37,
+          "id": "1455784742922555395",
+          "start": 23,
+          "username": "lengcuicui119"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045144635367162097",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045026285047742517",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cVPrL20wIa42392: 一世@lengcuicui119因vpn IP波动被封了\n（已申诉）不知道能不能解开了，暂且先用这个，x对我来说就像树洞，我不能没有他，互fo慢回，谢谢大家🥺"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [lengcuicui119].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "lengcuicui119",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "lengcuicui119"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1814174084617666560",
+        "conversation_id": "2045144635367162097",
+        "created_at": "2026-04-17T14:17:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T15:17:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045144635367162097"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2045022236201918465",
+              "start": 3,
+              "username": "cVPrL20wIa42392"
+            },
+            {
+              "end": 37,
+              "id": "1455784742922555395",
+              "start": 23,
+              "username": "lengcuicui119"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045144635367162097",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045026285047742517",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cVPrL20wIa42392: 一世@lengcuicui119因vpn IP波动被封了\n（已申诉）不知道能不能解开了，暂且先用这个，x对我来说就像树洞，我不能没有他，互fo慢回，谢谢大家🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045022236201918465",
+        "conversation_id": "2045026285047742517",
+        "created_at": "2026-04-17T06:27:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T07:27:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045026285047742517"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1455784742922555395",
+              "start": 2,
+              "username": "lengcuicui119"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045026285047742517",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1219,
+          "like_count": 53,
+          "quote_count": 0,
+          "reply_count": 19,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "一世@lengcuicui119因vpn IP波动被封了\n（已申诉）不知道能不能解开了，暂且先用这个，x对我来说就像树洞，我不能没有他，互fo慢回，谢谢大家🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-19T05:43:11.000Z",
+        "description": "❄️♡⋰ ⋱♱⋰ ⋱♡⋰ ⋱♱⋰ ⋱♡⋰ ⋱♱⋰ ⋱♡ ❄️\n♡⋰ ♱💉od｜双向｜精分｜餐劵｜无性别❄️ ♱ ⋱♡\n♡ ❄️眠雪 09休学（回fo餐劵.od.跨妹.女孩子）❄️ ♡\n ♡⋰ 🌙 月は見ている時だけ存在💧 ⋱♡\n🐾♱❄️网站链接提问箱欢迎来玩🫶🏻❄️ ♱🐾",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E4%B8%8D%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E4%B8%8D%E7%9C%A0%E9%9B%AA",
+                "start": 0,
+                "url": "https://t.co/lJEWqJRiAE"
+              }
+            ]
+          }
+        },
+        "id": "1814174084617666560",
+        "location": "距离你520米",
+        "name": "不眠雪❄️",
+        "pinned_tweet_id": "2040247165252247975",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040922964645007360/CCSlCpXW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1947,
+          "following_count": 353,
+          "like_count": 694,
+          "listed_count": 1,
+          "media_count": 188,
+          "tweet_count": 904
+        },
+        "url": "https://t.co/lJEWqJRiAE",
+        "username": "MianXue525",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-17T06:11:19.000Z",
+        "description": "白兔pr重度依赖，可以叫我小杀，od/不🔪🩸/致幻/不涉政/日语🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪/分享点sex内容/二三涉/请自行避雷🥰/同类互fo/评论可能收不到，延迟回复抱歉，但请不要问我物质渠道，也不出售任何物质🙂‍↔️欢迎找我提问！！！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B1%B1%E6%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B1%B1%E6%9C%AC%E6%AE%BA%E3%81%97",
+                "start": 0,
+                "url": "https://t.co/0J0vv0Ub53"
+              }
+            ]
+          }
+        },
+        "id": "2045022236201918465",
+        "name": "山本殺し（二世互fo寻回版）",
+        "pinned_tweet_id": "2045026285047742517",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045022879562231808/TOsi7poo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 80,
+          "like_count": 36,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 39
+        },
+        "url": "https://t.co/0J0vv0Ub53",
+        "username": "cVPrL20wIa42392",
+        "verified": false
+      }
+    ]
+  }
+}

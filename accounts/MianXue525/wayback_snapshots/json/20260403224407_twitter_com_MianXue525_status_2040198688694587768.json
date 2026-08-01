@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1814174084617666560",
+    "conversation_id": "2040130168082268471",
+    "created_at": "2026-04-03T22:44:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T23:44:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040198688694587768"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1935582910217912320",
+          "start": 0,
+          "username": "ameyorui"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040198688694587768",
+    "in_reply_to_user_id": "1935582910217912320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040196653710491806",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ameyorui 永远在一起🥲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1814174084617666560",
+        "conversation_id": "2040130168082268471",
+        "created_at": "2026-04-03T22:44:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T23:44:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040198688694587768"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1935582910217912320",
+              "start": 0,
+              "username": "ameyorui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040198688694587768",
+        "in_reply_to_user_id": "1935582910217912320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040196653710491806",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ameyorui 永远在一起🥲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1935582910217912320",
+        "conversation_id": "2040130168082268471",
+        "created_at": "2026-04-03T22:36:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T23:36:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040196653710491806"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1814174084617666560",
+              "start": 0,
+              "username": "MianXue525"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040196653710491806",
+        "in_reply_to_user_id": "1814174084617666560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040130168082268471",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MianXue525 和妈妈一起生活吗?"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-19T05:43:11.000Z",
+        "description": "❄️♡⋰ ⋱♱⋰ ⋱♡⋰ ⋱♱⋰ ⋱♡⋰ ⋱♱⋰ ⋱♡ ❄️\n💉od｜双向｜精分｜餐劵｜无性别❄️\n❄️一个冰雪国度失眠的孩子若逃离了这里请收留我❄️\n❄️不眠雪 09休学 回fo餐劵od.跨妹.女孩子❄️ \n❄️网站链接提问箱欢迎来玩🫶🏻❄️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E4%B8%8D%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E4%B8%8D%E7%9C%A0%E9%9B%AA",
+                "start": 0,
+                "url": "https://t.co/lJEWqJRiAE"
+              }
+            ]
+          }
+        },
+        "id": "1814174084617666560",
+        "location": "距离你520米",
+        "name": "不眠雪❄️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032010530718904320/bue0uZZ-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1460,
+          "following_count": 332,
+          "like_count": 510,
+          "listed_count": 1,
+          "media_count": 127,
+          "tweet_count": 606
+        },
+        "url": "https://t.co/lJEWqJRiAE",
+        "username": "MianXue525",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-19T06:19:07.000Z",
+        "description": "在虚无与幻灭中刻下属于自己的痕迹吧。🌿一只无性人偶🫒＆ 澄澈/荒诞/凄美/交融/戏剧性缥缈♬ 东方厨☯️ 🍥与你相遇亦是缘☘️ (欢迎互fo哦 ps偶尔发病) 小天使@zhoyuluo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 83,
+                "username": "zhoyuluo"
+              }
+            ]
+          }
+        },
+        "id": "1935582910217912320",
+        "location": "彼岸乐园",
+        "name": "雨夜兰陵行路人🍃",
+        "pinned_tweet_id": "2034518955495391385",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935583269468110849/1rP4Zh0x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 2517,
+          "like_count": 18611,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 756
+        },
+        "username": "ameyorui",
+        "verified": false
+      }
+    ]
+  }
+}

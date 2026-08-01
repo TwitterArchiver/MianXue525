@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2029982457370689536"
+      ]
+    },
+    "author_id": "1814174084617666560",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2029982472004661589",
+    "created_at": "2026-03-06T18:08:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-06T19:08:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2029982472004661589"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/7SHcQgcRIh",
+          "end": 26,
+          "expanded_url": "https://x.com/MianXue525/status/2029982472004661589/photo/1",
+          "media_key": "3_2029982457370689536",
+          "start": 3,
+          "url": "https://t.co/7SHcQgcRIh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029982472004661589",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "宝藏 https://t.co/7SHcQgcRIh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1958,
+        "media_key": "3_2029982457370689536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCvySifawAAs5S_.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2029982457370689536"
+          ]
+        },
+        "author_id": "1814174084617666560",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2029982472004661589",
+        "created_at": "2026-03-06T18:08:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T19:08:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029982472004661589"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7SHcQgcRIh",
+              "end": 26,
+              "expanded_url": "https://x.com/MianXue525/status/2029982472004661589/photo/1",
+              "media_key": "3_2029982457370689536",
+              "start": 3,
+              "url": "https://t.co/7SHcQgcRIh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029982472004661589",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "宝藏 https://t.co/7SHcQgcRIh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-19T05:43:11.000Z",
+        "description": "如果逃离了这里 请收留我",
+        "id": "1814174084617666560",
+        "name": "不眠雪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029409903560015874/Hg496_qT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 38,
+          "like_count": 295,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 45
+        },
+        "username": "MianXue525",
+        "verified": false
+      }
+    ]
+  }
+}

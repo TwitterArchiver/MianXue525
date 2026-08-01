@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1814174084617666560",
+    "conversation_id": "2038199619495280821",
+    "created_at": "2026-03-29T10:20:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T11:20:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038199619495280821"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2028925492351647745",
+          "start": 3,
+          "username": "Xue03g"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038199619495280821",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038150068503728314",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Xue03g: 想扩一下 提前感谢转发友友\n我是小桖03g  08休学妹 想交能双向互动的朋友\n成分：自残、od、穿孔、gal game'音游'梦女'媚宅二游\n健全🚪50 看眼缘特殊服务  一些看心情免mk费回\n可找我闲聊倾诉、一起听/一起o、玩游戏\n只fo同类  不回…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2160,
+        "media_key": "3_2038150060031270912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEj2rlca4AA8s1Y.jpg",
+        "width": 2160
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2038150060236828672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEj2rmNbcAAwrgl.jpg",
+        "width": 887
+      },
+      {
+        "height": 570,
+        "media_key": "3_2038150059460825088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEj2rjUakAAkkvY.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1590,
+        "media_key": "3_2038150059909599232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEj2rk_aUAAKHig.jpg",
+        "width": 1590
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1814174084617666560",
+        "conversation_id": "2038199619495280821",
+        "created_at": "2026-03-29T10:20:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T11:20:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038199619495280821"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2028925492351647745",
+              "start": 3,
+              "username": "Xue03g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038199619495280821",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038150068503728314",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Xue03g: 想扩一下 提前感谢转发友友\n我是小桖03g  08休学妹 想交能双向互动的朋友\n成分：自残、od、穿孔、gal game'音游'梦女'媚宅二游\n健全🚪50 看眼缘特殊服务  一些看心情免mk费回\n可找我闲聊倾诉、一起听/一起o、玩游戏\n只fo同类  不回…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038150060031270912",
+            "3_2038150060236828672",
+            "3_2038150059460825088",
+            "3_2038150059909599232"
+          ]
+        },
+        "author_id": "2028925492351647745",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2038150068503728314",
+        "created_at": "2026-03-29T07:03:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T08:03:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038150068503728314"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bXSIIJn72K",
+              "end": 173,
+              "expanded_url": "https://x.com/Xue03g/status/2038150068503728314/photo/1",
+              "media_key": "3_2038150060031270912",
+              "start": 150,
+              "url": "https://t.co/bXSIIJn72K"
+            },
+            {
+              "display_url": "pic.x.com/bXSIIJn72K",
+              "end": 173,
+              "expanded_url": "https://x.com/Xue03g/status/2038150068503728314/photo/1",
+              "media_key": "3_2038150060236828672",
+              "start": 150,
+              "url": "https://t.co/bXSIIJn72K"
+            },
+            {
+              "display_url": "pic.x.com/bXSIIJn72K",
+              "end": 173,
+              "expanded_url": "https://x.com/Xue03g/status/2038150068503728314/photo/1",
+              "media_key": "3_2038150059460825088",
+              "start": 150,
+              "url": "https://t.co/bXSIIJn72K"
+            },
+            {
+              "display_url": "pic.x.com/bXSIIJn72K",
+              "end": 173,
+              "expanded_url": "https://x.com/Xue03g/status/2038150068503728314/photo/1",
+              "media_key": "3_2038150059909599232",
+              "start": 150,
+              "url": "https://t.co/bXSIIJn72K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038150068503728314",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 226,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "想扩一下 提前感谢转发友友\n我是小桖03g  08休学妹 想交能双向互动的朋友\n成分：自残、od、穿孔、gal game'音游'梦女'媚宅二游\n健全🚪50 看眼缘特殊服务  一些看心情免mk费回\n可找我闲聊倾诉、一起听/一起o、玩游戏\n只fo同类  不回主页大部分都是转发、月抛等无法查到个人成分的 https://t.co/bXSIIJn72K"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-19T05:43:11.000Z",
+        "description": "❄️♡⋰ ⋱♱⋰ ⋱♡⋰ ⋱♱⋰ ⋱♡⋰ ⋱♱⋰ ⋱♡ ❄️\n💉od｜双向｜精分｜餐劵｜无性别❄️\n❄️一个冰雪国度失眠的孩子若逃离了这里请收留我❄️\n❄️不眠雪 09休学 回fo餐劵od.跨妹.女孩子❄️ \n❄️网站链接提问箱欢迎来玩🫶🏻❄️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E4%B8%8D%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E4%B8%8D%E7%9C%A0%E9%9B%AA",
+                "start": 0,
+                "url": "https://t.co/lJEWqJRiAE"
+              }
+            ]
+          }
+        },
+        "id": "1814174084617666560",
+        "location": "距离你520米",
+        "name": "不眠雪❄️",
+        "pinned_tweet_id": "2037448294901911594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032010530718904320/bue0uZZ-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1046,
+          "following_count": 313,
+          "like_count": 469,
+          "listed_count": 1,
+          "media_count": 110,
+          "tweet_count": 517
+        },
+        "url": "https://t.co/lJEWqJRiAE",
+        "username": "MianXue525",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-03T20:08:51.000Z",
+        "description": "总而言之你特别可爱",
+        "id": "2028925492351647745",
+        "location": "Taiwan",
+        "name": "Clementine03g",
+        "pinned_tweet_id": "2033219724889206977",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035943845591130112/AmfCT4hY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 130,
+          "like_count": 570,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 230
+        },
+        "username": "Xue03g",
+        "verified": false
+      }
+    ]
+  }
+}

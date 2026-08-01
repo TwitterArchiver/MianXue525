@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1814174084617666560",
+    "conversation_id": "2046364267922981248",
+    "created_at": "2026-04-20T23:03:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T00:03:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046364267922981248"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1474147964",
+          "start": 3,
+          "username": "Manning0119TuT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046364267922981248",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046334823497957554",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Manning0119TuT: 冰水母 也可以叫我小宁！\n✟⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘✟°\no龄三年｜大学焦抑休学｜jk、lo、cos、地雷，od想和推友们互fo，感谢各位宝宝们口牙\n退游很多现在只玩王者永劫，同段位的宝宝可以一起玩！当然比我高的更好了=w=\n求宝宝们互转…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2000,
+        "media_key": "3_2046334811779039232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGYKq1ubAAAU11K.jpg",
+        "width": 3000
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2046334811753836544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGYKq1oacAANR6s.jpg",
+        "width": 3072
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2046334811762249728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGYKq1qa0AA4FTo.jpg",
+        "width": 4096
+      },
+      {
+        "height": 1179,
+        "media_key": "3_2046334811753857024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGYKq1oawAAAUCL.jpg",
+        "width": 2556
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1814174084617666560",
+        "conversation_id": "2046364267922981248",
+        "created_at": "2026-04-20T23:03:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T00:03:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046364267922981248"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1474147964",
+              "start": 3,
+              "username": "Manning0119TuT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046364267922981248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046334823497957554",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Manning0119TuT: 冰水母 也可以叫我小宁！\n✟⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘✟°\no龄三年｜大学焦抑休学｜jk、lo、cos、地雷，od想和推友们互fo，感谢各位宝宝们口牙\n退游很多现在只玩王者永劫，同段位的宝宝可以一起玩！当然比我高的更好了=w=\n求宝宝们互转…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046334811779039232",
+            "3_2046334811753836544",
+            "3_2046334811762249728",
+            "3_2046334811753857024"
+          ]
+        },
+        "author_id": "1474147964",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2046334823497957554",
+        "created_at": "2026-04-20T21:06:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T22:06:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046334823497957554"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Z5O158kHPr",
+              "end": 148,
+              "expanded_url": "https://x.com/Manning0119TuT/status/2046334823497957554/photo/1",
+              "media_key": "3_2046334811779039232",
+              "start": 125,
+              "url": "https://t.co/Z5O158kHPr"
+            },
+            {
+              "display_url": "pic.x.com/Z5O158kHPr",
+              "end": 148,
+              "expanded_url": "https://x.com/Manning0119TuT/status/2046334823497957554/photo/1",
+              "media_key": "3_2046334811753836544",
+              "start": 125,
+              "url": "https://t.co/Z5O158kHPr"
+            },
+            {
+              "display_url": "pic.x.com/Z5O158kHPr",
+              "end": 148,
+              "expanded_url": "https://x.com/Manning0119TuT/status/2046334823497957554/photo/1",
+              "media_key": "3_2046334811762249728",
+              "start": 125,
+              "url": "https://t.co/Z5O158kHPr"
+            },
+            {
+              "display_url": "pic.x.com/Z5O158kHPr",
+              "end": 148,
+              "expanded_url": "https://x.com/Manning0119TuT/status/2046334823497957554/photo/1",
+              "media_key": "3_2046334811753857024",
+              "start": 125,
+              "url": "https://t.co/Z5O158kHPr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046334823497957554",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 49,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "冰水母 也可以叫我小宁！\n✟⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘✟°\no龄三年｜大学焦抑休学｜jk、lo、cos、地雷，od想和推友们互fo，感谢各位宝宝们口牙\n退游很多现在只玩王者永劫，同段位的宝宝可以一起玩！当然比我高的更好了=w=\n求宝宝们互转互fo 🤍 https://t.co/Z5O158kHPr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-19T05:43:11.000Z",
+        "description": "❄️♡⋰ ⋱♱⋰ ⋱♡⋰ ⋱♱⋰ ⋱♡⋰ ⋱♱⋰ ⋱♡ ❄️\n♡⋰ ♱💉od｜双向｜精分｜餐劵｜无性别❄️ ♱ ⋱♡\n♡ ❄️眠雪 09休学（回fo餐劵.od.跨妹.女孩子）❄️ ♡\n ♡⋰ 🌙 月は見ている時だけ存在💧 ⋱♡\n🐾♱❄️网站链接提问箱欢迎来玩🫶🏻❄️ ♱🐾",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E4%B8%8D%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E4%B8%8D%E7%9C%A0%E9%9B%AA",
+                "start": 0,
+                "url": "https://t.co/lJEWqJRiAE"
+              }
+            ]
+          }
+        },
+        "id": "1814174084617666560",
+        "location": "距离你520米",
+        "name": "不眠雪❄️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040922964645007360/CCSlCpXW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1990,
+          "following_count": 356,
+          "like_count": 737,
+          "listed_count": 1,
+          "media_count": 195,
+          "tweet_count": 983
+        },
+        "url": "https://t.co/lJEWqJRiAE",
+        "username": "MianXue525",
+        "verified": false
+      },
+      {
+        "created_at": "2013-06-01T08:20:53.000Z",
+        "description": "小宁 坐标香港🇭🇰\nod｜王者｜大学休学焦抑｜好说话几乎没有雷点 欢迎来找我聊天呀ovo",
+        "id": "1474147964",
+        "location": "🚪52v｜qq免费（很少看）",
+        "name": "冰水母IvySerenity",
+        "pinned_tweet_id": "2046334823497957554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046314471065575424/D5AtW1ac_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 653,
+          "following_count": 166,
+          "like_count": 9512,
+          "listed_count": 3,
+          "media_count": 3,
+          "tweet_count": 567
+        },
+        "username": "Manning0119TuT",
+        "verified": false
+      }
+    ]
+  }
+}

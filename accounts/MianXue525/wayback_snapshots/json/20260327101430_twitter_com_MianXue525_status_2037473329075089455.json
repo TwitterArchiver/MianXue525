@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1814174084617666560",
+    "conversation_id": "2036753043971039506",
+    "created_at": "2026-03-27T10:14:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T11:14:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037473329075089455"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1951222944278978560",
+          "start": 0,
+          "username": "xllmango"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037473329075089455",
+    "in_reply_to_user_id": "1951222944278978560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036753043971039506",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xllmango 怎么了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2796,
+        "media_key": "3_2036753026258530304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEQAFhFXcAAdRH8.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1814174084617666560",
+        "conversation_id": "2036753043971039506",
+        "created_at": "2026-03-27T10:14:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T11:14:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037473329075089455"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1951222944278978560",
+              "start": 0,
+              "username": "xllmango"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037473329075089455",
+        "in_reply_to_user_id": "1951222944278978560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036753043971039506",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xllmango 怎么了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2036753026258530304"
+          ]
+        },
+        "author_id": "1951222944278978560",
+        "conversation_id": "2036753043971039506",
+        "created_at": "2026-03-25T10:32:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T11:32:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036753043971039506"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ou2T5EVdl6",
+              "end": 34,
+              "expanded_url": "https://x.com/xllmango/status/2036753043971039506/photo/1",
+              "media_key": "3_2036753026258530304",
+              "start": 11,
+              "url": "https://t.co/Ou2T5EVdl6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036753043971039506",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 91,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁有她的推特号呜呜呜 https://t.co/Ou2T5EVdl6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-19T05:43:11.000Z",
+        "description": "❄️♡⋰ ⋱♱⋰ ⋱♡⋰ ⋱♱⋰ ⋱♡⋰ ⋱♱⋰ ⋱♡ ❄️\n💉od｜双向｜精分｜餐劵｜无性别❄️\n❄️一个冰雪国度失眠的孩子若逃离了这里请收留我❄️\n❄️不眠雪 09休学 回fo餐劵od.跨妹.女孩子❄️ \n❄️网站链接提问箱欢迎来玩🫶🏻❄️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E4%B8%8D%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E4%B8%8D%E7%9C%A0%E9%9B%AA",
+                "start": 0,
+                "url": "https://t.co/lJEWqJRiAE"
+              }
+            ]
+          }
+        },
+        "id": "1814174084617666560",
+        "location": "距离你520米",
+        "name": "不眠雪❄️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032010530718904320/bue0uZZ-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1009,
+          "following_count": 300,
+          "like_count": 445,
+          "listed_count": 1,
+          "media_count": 105,
+          "tweet_count": 489
+        },
+        "url": "https://t.co/lJEWqJRiAE",
+        "username": "MianXue525",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-01T10:06:23.000Z",
+        "description": "",
+        "id": "1951222944278978560",
+        "name": "ShikkokuHara",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027929254097522689/vG7edjW__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147,
+          "following_count": 144,
+          "like_count": 274,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 175
+        },
+        "username": "xllmango",
+        "verified": false
+      }
+    ]
+  }
+}

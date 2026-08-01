@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2029561599938494464"
+      ]
+    },
+    "author_id": "1814174084617666560",
+    "conversation_id": "2029561685393211606",
+    "created_at": "2026-03-05T14:16:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-05T15:16:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2029561685393211606"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/4l0rm3KUwg",
+          "end": 57,
+          "expanded_url": "https://x.com/MianXue525/status/2029561685393211606/video/1",
+          "media_key": "13_2029561599938494464",
+          "start": 34,
+          "url": "https://t.co/4l0rm3KUwg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029561685393211606",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "笑哭我了不知道朋友什么时候拍的ヽ(；▽；)我都没有做这行为的记忆了 https://t.co/4l0rm3KUwg"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7333,
+        "height": 960,
+        "media_key": "13_2029561599938494464",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2029561599938494464/img/8YYTqORyBCstogXl.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2029561599938494464/vid/avc1/320x426/7r9NqvYgkpOrDxzs.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2029561599938494464/vid/avc1/480x640/a1HUpiC-X7jKu_dO.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2029561599938494464/vid/avc1/720x960/dcs6Y1Rhirx5BIIC.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2029561599938494464/pl/-Nyb0tC9vi4Jib3A.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2029561599938494464"
+          ]
+        },
+        "author_id": "1814174084617666560",
+        "conversation_id": "2029561685393211606",
+        "created_at": "2026-03-05T14:16:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T15:16:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029561685393211606"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4l0rm3KUwg",
+              "end": 57,
+              "expanded_url": "https://x.com/MianXue525/status/2029561685393211606/video/1",
+              "media_key": "13_2029561599938494464",
+              "start": 34,
+              "url": "https://t.co/4l0rm3KUwg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029561685393211606",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "笑哭我了不知道朋友什么时候拍的ヽ(；▽；)我都没有做这行为的记忆了 https://t.co/4l0rm3KUwg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-19T05:43:11.000Z",
+        "description": "如果逃离了这里 请收留我",
+        "id": "1814174084617666560",
+        "name": "不眠雪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029409903560015874/Hg496_qT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 52,
+          "like_count": 290,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 32
+        },
+        "username": "MianXue525",
+        "verified": false
+      }
+    ]
+  }
+}

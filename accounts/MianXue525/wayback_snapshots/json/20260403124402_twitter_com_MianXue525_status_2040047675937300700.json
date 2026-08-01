@@ -1,0 +1,346 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1814174084617666560",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1364667946291798017",
+          "name": "Study abroad"
+        }
+      }
+    ],
+    "conversation_id": "2040047675937300700",
+    "created_at": "2026-04-03T12:44:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T13:44:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040047675937300700"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 125,
+          "start": 113,
+          "tag": "地雷系女子と繋がりたい"
+        },
+        {
+          "end": 138,
+          "start": 126,
+          "tag": "自撮り界隈と繋がりたい"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2038073026043138048",
+          "start": 3,
+          "username": "kamishiroruru"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040047675937300700",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040047161644380440",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kamishiroruru: 初めまして！神代露露ですーー\n中国の留学生です🥺🥺まだ日本語を勉強していますよぉ、、仲良くなりたい❣️\nフォロバ✅チャット✅中文✅日本語✅\nよろしくお願いします🙇‍♀️🙇‍♀️🙇‍♀️\n #地雷系女子と繋がりたい\n#自撮り界隈と繋がりたい…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2040047154874683392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE-0FCdaEAAxNst.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2040047154866388992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE-0FCbbgAAalP8.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2040047154878976001",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE-0FCebkAEfhai.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2040047154870534145",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE-0FCcawAExZmb.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1814174084617666560",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1364667946291798017",
+              "name": "Study abroad"
+            }
+          }
+        ],
+        "conversation_id": "2040047675937300700",
+        "created_at": "2026-04-03T12:44:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T13:44:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040047675937300700"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 125,
+              "start": 113,
+              "tag": "地雷系女子と繋がりたい"
+            },
+            {
+              "end": 138,
+              "start": 126,
+              "tag": "自撮り界隈と繋がりたい"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2038073026043138048",
+              "start": 3,
+              "username": "kamishiroruru"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040047675937300700",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040047161644380440",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kamishiroruru: 初めまして！神代露露ですーー\n中国の留学生です🥺🥺まだ日本語を勉強していますよぉ、、仲良くなりたい❣️\nフォロバ✅チャット✅中文✅日本語✅\nよろしくお願いします🙇‍♀️🙇‍♀️🙇‍♀️\n #地雷系女子と繋がりたい\n#自撮り界隈と繋がりたい…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040047154874683392",
+            "3_2040047154866388992",
+            "3_2040047154878976001",
+            "3_2040047154870534145"
+          ]
+        },
+        "author_id": "2038073026043138048",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1364667946291798017",
+              "name": "Study abroad"
+            }
+          }
+        ],
+        "conversation_id": "2040047161644380440",
+        "created_at": "2026-04-03T12:42:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T13:42:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040047161644380440"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 106,
+              "start": 94,
+              "tag": "地雷系女子と繋がりたい"
+            },
+            {
+              "end": 119,
+              "start": 107,
+              "tag": "自撮り界隈と繋がりたい"
+            },
+            {
+              "end": 133,
+              "start": 120,
+              "tag": "美男美女さんと繋がりたい"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/eheRgYhtYU",
+              "end": 157,
+              "expanded_url": "https://x.com/kamishiroruru/status/2040047161644380440/photo/1",
+              "media_key": "3_2040047154874683392",
+              "start": 134,
+              "url": "https://t.co/eheRgYhtYU"
+            },
+            {
+              "display_url": "pic.x.com/eheRgYhtYU",
+              "end": 157,
+              "expanded_url": "https://x.com/kamishiroruru/status/2040047161644380440/photo/1",
+              "media_key": "3_2040047154866388992",
+              "start": 134,
+              "url": "https://t.co/eheRgYhtYU"
+            },
+            {
+              "display_url": "pic.x.com/eheRgYhtYU",
+              "end": 157,
+              "expanded_url": "https://x.com/kamishiroruru/status/2040047161644380440/photo/1",
+              "media_key": "3_2040047154878976001",
+              "start": 134,
+              "url": "https://t.co/eheRgYhtYU"
+            },
+            {
+              "display_url": "pic.x.com/eheRgYhtYU",
+              "end": 157,
+              "expanded_url": "https://x.com/kamishiroruru/status/2040047161644380440/photo/1",
+              "media_key": "3_2040047154870534145",
+              "start": 134,
+              "url": "https://t.co/eheRgYhtYU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040047161644380440",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "初めまして！神代露露ですーー\n中国の留学生です🥺🥺まだ日本語を勉強していますよぉ、、仲良くなりたい❣️\nフォロバ✅チャット✅中文✅日本語✅\nよろしくお願いします🙇‍♀️🙇‍♀️🙇‍♀️\n #地雷系女子と繋がりたい\n#自撮り界隈と繋がりたい\n#美男美女さんと繋がりたい https://t.co/eheRgYhtYU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-19T05:43:11.000Z",
+        "description": "❄️♡⋰ ⋱♱⋰ ⋱♡⋰ ⋱♱⋰ ⋱♡⋰ ⋱♱⋰ ⋱♡ ❄️\n💉od｜双向｜精分｜餐劵｜无性别❄️\n❄️一个冰雪国度失眠的孩子若逃离了这里请收留我❄️\n❄️不眠雪 09休学 回fo餐劵od.跨妹.女孩子❄️ \n❄️网站链接提问箱欢迎来玩🫶🏻❄️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E4%B8%8D%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E4%B8%8D%E7%9C%A0%E9%9B%AA",
+                "start": 0,
+                "url": "https://t.co/lJEWqJRiAE"
+              }
+            ]
+          }
+        },
+        "id": "1814174084617666560",
+        "location": "距离你520米",
+        "name": "不眠雪❄️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032010530718904320/bue0uZZ-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1310,
+          "following_count": 315,
+          "like_count": 498,
+          "listed_count": 1,
+          "media_count": 126,
+          "tweet_count": 581
+        },
+        "url": "https://t.co/lJEWqJRiAE",
+        "username": "MianXue525",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-29T01:59:43.000Z",
+        "description": "出身天国の黒猫🐈‍⬛名前はルルですよぉ〜永遠に十四歳",
+        "id": "2038073026043138048",
+        "location": "東京 渋谷区",
+        "name": "神代ルル",
+        "pinned_tweet_id": "2040047161644380440",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038081008072019968/adneBrv7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 13,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 5
+        },
+        "username": "kamishiroruru",
+        "verified": false
+      }
+    ]
+  }
+}

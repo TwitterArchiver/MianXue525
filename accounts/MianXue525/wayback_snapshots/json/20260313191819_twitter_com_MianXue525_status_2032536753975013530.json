@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1814174084617666560",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      }
+    ],
+    "conversation_id": "2032536753975013530",
+    "created_at": "2026-03-13T19:18:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-13T20:18:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2032536753975013530"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2032536753975013530",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {
+        "mentions": [
+          {
+            "end": 18,
+            "id": "1814174084617666560",
+            "start": 7,
+            "username": "MianXue525"
+          },
+          {
+            "end": 197,
+            "id": "1814174084617666560",
+            "start": 186,
+            "username": "MianXue525"
+          }
+        ]
+      },
+      "text": "来自Grok\n@MianXue525的X资料以诗意昵称“不眠雪”为核心，展现出对夜晚、梦境与情感的深刻沉思，简介中隐约透露出对往昔冬雪的眷恋。用户偏好发布简短而富有意象的文字，探讨爱情的微妙与时光的流转，常通过自然景物折射内心独白。少为人知的是，其早期帖子中偶尔夹杂对古典文学的引用，如李清照词句，揭示了深厚的文学底蕴。\n\n> \"冬夜无眠，雪影婆娑，梦中人影渐远。\"\n\n-@MianXue525"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "来自Grok"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1814174084617666560",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2032536753975013530",
+        "created_at": "2026-03-13T19:18:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T20:18:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032536753975013530"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2032536753975013530",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 18,
+                "id": "1814174084617666560",
+                "start": 7,
+                "username": "MianXue525"
+              },
+              {
+                "end": 197,
+                "id": "1814174084617666560",
+                "start": 186,
+                "username": "MianXue525"
+              }
+            ]
+          },
+          "text": "来自Grok\n@MianXue525的X资料以诗意昵称“不眠雪”为核心，展现出对夜晚、梦境与情感的深刻沉思，简介中隐约透露出对往昔冬雪的眷恋。用户偏好发布简短而富有意象的文字，探讨爱情的微妙与时光的流转，常通过自然景物折射内心独白。少为人知的是，其早期帖子中偶尔夹杂对古典文学的引用，如李清照词句，揭示了深厚的文学底蕴。\n\n> \"冬夜无眠，雪影婆娑，梦中人影渐远。\"\n\n-@MianXue525"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "来自Grok"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-19T05:43:11.000Z",
+        "description": "如果逃离了这里 请收留我",
+        "id": "1814174084617666560",
+        "name": "不眠雪",
+        "pinned_tweet_id": "2032439729279603152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032010530718904320/bue0uZZ-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 453,
+          "following_count": 238,
+          "like_count": 365,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 233
+        },
+        "username": "MianXue525",
+        "verified": true
+      }
+    ]
+  }
+}

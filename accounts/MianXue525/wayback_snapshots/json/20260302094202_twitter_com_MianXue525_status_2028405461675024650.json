@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2028405429752217600",
+        "3_2028405429735395328",
+        "3_2028405429731303424",
+        "3_2028405429756432384"
+      ]
+    },
+    "author_id": "1814174084617666560",
+    "conversation_id": "2028405461675024650",
+    "created_at": "2026-03-02T09:42:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T10:42:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2028405461675024650"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/EqnOBGEi1b",
+          "end": 36,
+          "expanded_url": "https://x.com/MianXue525/status/2028405461675024650/photo/1",
+          "media_key": "3_2028405429752217600",
+          "start": 13,
+          "url": "https://t.co/EqnOBGEi1b"
+        },
+        {
+          "display_url": "pic.x.com/EqnOBGEi1b",
+          "end": 36,
+          "expanded_url": "https://x.com/MianXue525/status/2028405461675024650/photo/1",
+          "media_key": "3_2028405429735395328",
+          "start": 13,
+          "url": "https://t.co/EqnOBGEi1b"
+        },
+        {
+          "display_url": "pic.x.com/EqnOBGEi1b",
+          "end": 36,
+          "expanded_url": "https://x.com/MianXue525/status/2028405461675024650/photo/1",
+          "media_key": "3_2028405429731303424",
+          "start": 13,
+          "url": "https://t.co/EqnOBGEi1b"
+        },
+        {
+          "display_url": "pic.x.com/EqnOBGEi1b",
+          "end": 36,
+          "expanded_url": "https://x.com/MianXue525/status/2028405461675024650/photo/1",
+          "media_key": "3_2028405429756432384",
+          "start": 13,
+          "url": "https://t.co/EqnOBGEi1b"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028405461675024650",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "世界什么时候对我好一点… https://t.co/EqnOBGEi1b"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1636,
+        "media_key": "3_2028405429752217600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCZX_czawAAQ1r2.jpg",
+        "width": 1198
+      },
+      {
+        "height": 1997,
+        "media_key": "3_2028405429735395328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCZX_cvaEAA11IB.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1896,
+        "media_key": "3_2028405429731303424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCZX_cuboAAEIrz.jpg",
+        "width": 1440
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2028405429756432384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCZX_c0bEAAsRlI.jpg",
+        "width": 1354
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028405429752217600",
+            "3_2028405429735395328",
+            "3_2028405429731303424",
+            "3_2028405429756432384"
+          ]
+        },
+        "author_id": "1814174084617666560",
+        "conversation_id": "2028405461675024650",
+        "created_at": "2026-03-02T09:42:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T10:42:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028405461675024650"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EqnOBGEi1b",
+              "end": 36,
+              "expanded_url": "https://x.com/MianXue525/status/2028405461675024650/photo/1",
+              "media_key": "3_2028405429752217600",
+              "start": 13,
+              "url": "https://t.co/EqnOBGEi1b"
+            },
+            {
+              "display_url": "pic.x.com/EqnOBGEi1b",
+              "end": 36,
+              "expanded_url": "https://x.com/MianXue525/status/2028405461675024650/photo/1",
+              "media_key": "3_2028405429735395328",
+              "start": 13,
+              "url": "https://t.co/EqnOBGEi1b"
+            },
+            {
+              "display_url": "pic.x.com/EqnOBGEi1b",
+              "end": 36,
+              "expanded_url": "https://x.com/MianXue525/status/2028405461675024650/photo/1",
+              "media_key": "3_2028405429731303424",
+              "start": 13,
+              "url": "https://t.co/EqnOBGEi1b"
+            },
+            {
+              "display_url": "pic.x.com/EqnOBGEi1b",
+              "end": 36,
+              "expanded_url": "https://x.com/MianXue525/status/2028405461675024650/photo/1",
+              "media_key": "3_2028405429756432384",
+              "start": 13,
+              "url": "https://t.co/EqnOBGEi1b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028405461675024650",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "世界什么时候对我好一点… https://t.co/EqnOBGEi1b"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-19T05:43:11.000Z",
+        "description": "(/ _ ; )",
+        "id": "1814174084617666560",
+        "name": "不眠雪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1814174164485632000/y669kgs__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 49,
+          "like_count": 281,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 7
+        },
+        "username": "MianXue525",
+        "verified": false
+      }
+    ]
+  }
+}

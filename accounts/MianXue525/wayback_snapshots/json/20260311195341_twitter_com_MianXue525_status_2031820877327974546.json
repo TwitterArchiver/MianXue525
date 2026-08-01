@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1814174084617666560",
+    "conversation_id": "2031796846583251194",
+    "created_at": "2026-03-11T19:53:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-11T20:53:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031820877327974546"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1990243522738540544",
+          "start": 0,
+          "username": "hana9226Y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031820877327974546",
+    "in_reply_to_user_id": "1990243522738540544",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031809671154044943",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hana9226Y 普瑞和玉美呢？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1814174084617666560",
+        "conversation_id": "2031796846583251194",
+        "created_at": "2026-03-11T19:53:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T20:53:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031820877327974546"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1990243522738540544",
+              "start": 0,
+              "username": "hana9226Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031820877327974546",
+        "in_reply_to_user_id": "1990243522738540544",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031809671154044943",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hana9226Y 普瑞和玉美呢？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1990243522738540544",
+        "conversation_id": "2031796846583251194",
+        "created_at": "2026-03-11T19:09:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T20:09:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031809671154044943"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1814174084617666560",
+              "start": 0,
+              "username": "MianXue525"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031809671154044943",
+        "in_reply_to_user_id": "1814174084617666560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031796911834087726",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MianXue525 这个要看你吃的什么药再搭配相应的止吐药呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-19T05:43:11.000Z",
+        "description": "如果逃离了这里 请收留我",
+        "id": "1814174084617666560",
+        "name": "不眠雪",
+        "pinned_tweet_id": "2031785120320106873",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029409903560015874/Hg496_qT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 238,
+          "following_count": 147,
+          "like_count": 351,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 167
+        },
+        "username": "MianXue525",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-17T02:20:20.000Z",
+        "description": "我是花9226 可以叫我花玖",
+        "id": "1990243522738540544",
+        "location": "天国",
+        "name": "花9226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990244016370196480/uvn5LsPK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 307,
+          "like_count": 1503,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 373
+        },
+        "username": "hana9226Y",
+        "verified": false
+      }
+    ]
+  }
+}

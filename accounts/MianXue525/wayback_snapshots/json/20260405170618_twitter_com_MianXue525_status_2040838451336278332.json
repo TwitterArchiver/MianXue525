@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1814174084617666560",
+    "conversation_id": "2040831510408999006",
+    "created_at": "2026-04-05T17:06:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T18:06:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040838451336278332"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1466690118517882884",
+          "start": 0,
+          "username": "gomi_kuzu368"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040838451336278332",
+    "in_reply_to_user_id": "1466690118517882884",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040835964801835166",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gomi_kuzu368 害怕纯度不是99T^T"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1814174084617666560",
+        "conversation_id": "2040831510408999006",
+        "created_at": "2026-04-05T17:06:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T18:06:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040838451336278332"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1466690118517882884",
+              "start": 0,
+              "username": "gomi_kuzu368"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040838451336278332",
+        "in_reply_to_user_id": "1466690118517882884",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040835964801835166",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gomi_kuzu368 害怕纯度不是99T^T"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1466690118517882884",
+        "conversation_id": "2040831510408999006",
+        "created_at": "2026-04-05T16:56:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T17:56:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040835964801835166"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1814174084617666560",
+              "start": 0,
+              "username": "MianXue525"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040835964801835166",
+        "in_reply_to_user_id": "1814174084617666560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040831510408999006",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MianXue525 这东西还能有假？（话说在哪买的能透露一下吗🥹"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-19T05:43:11.000Z",
+        "description": "❄️♡⋰ ⋱♱⋰ ⋱♡⋰ ⋱♱⋰ ⋱♡⋰ ⋱♱⋰ ⋱♡ ❄️\n♡⋰ ♱💉od｜双向｜精分｜餐劵｜无性别❄️ ♱ ⋱♡\n♡❄️不眠雪 09休学 回fo餐劵.od.跨妹.女孩子❄️ ♡\n ♡⋰ 🌙 月は見ている時だけ存在💧 ⋱♡\n🐾♱❄️网站链接提问箱欢迎来玩🫶🏻❄️ ♱🐾",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E4%B8%8D%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E4%B8%8D%E7%9C%A0%E9%9B%AA",
+                "start": 0,
+                "url": "https://t.co/lJEWqJRiAE"
+              }
+            ]
+          }
+        },
+        "id": "1814174084617666560",
+        "location": "距离你520米",
+        "name": "不眠雪❄️",
+        "pinned_tweet_id": "2040247165252247975",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040814466431164416/0RECaVIu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1697,
+          "following_count": 330,
+          "like_count": 522,
+          "listed_count": 1,
+          "media_count": 142,
+          "tweet_count": 639
+        },
+        "url": "https://t.co/lJEWqJRiAE",
+        "username": "MianXue525",
+        "verified": true
+      },
+      {
+        "created_at": "2021-12-03T08:46:10.000Z",
+        "description": "名字是くず和ごみ拼起来的｜od｜pr单推人｜自残｜阴暗逼｜自毁倾向｜臭看动漫的｜百合厨｜半个管人痴｜情绪单推人｜社恐 只敢点赞不敢发言｜fo是因为喜欢，没有恶意🥹\nbgm: https://t.co/0AeCCKWpat",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bangumi.tv/user/782347",
+                "end": 110,
+                "expanded_url": "https://bangumi.tv/user/782347",
+                "start": 87,
+                "url": "https://t.co/0AeCCKWpat"
+              }
+            ]
+          }
+        },
+        "id": "1466690118517882884",
+        "name": "クズミ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884298781958758400/3GRGRS9Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 172,
+          "like_count": 705,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 51
+        },
+        "username": "gomi_kuzu368",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1814174084617666560",
+    "conversation_id": "2030400387933720801",
+    "created_at": "2026-03-07T21:49:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-07T22:49:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030400595694407995"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2030400595694407995",
+    "in_reply_to_user_id": "1814174084617666560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030400387933720801",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "因为我八妇女节这天正好要去三亚玩了，不和妈妈见面了(´･ω･`)"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2030400380765614080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC1uY4daMAAnE4q.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1814174084617666560",
+        "conversation_id": "2030400387933720801",
+        "created_at": "2026-03-07T21:49:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T22:49:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030400595694407995"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2030400595694407995",
+        "in_reply_to_user_id": "1814174084617666560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030400387933720801",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "因为我八妇女节这天正好要去三亚玩了，不和妈妈见面了(´･ω･`)"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030400380765614080"
+          ]
+        },
+        "author_id": "1814174084617666560",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2030400387933720801",
+        "created_at": "2026-03-07T21:49:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T22:49:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030400387933720801"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WO4nGReoww",
+              "end": 32,
+              "expanded_url": "https://x.com/MianXue525/status/2030400387933720801/photo/1",
+              "media_key": "3_2030400380765614080",
+              "start": 9,
+              "url": "https://t.co/WO4nGReoww"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030400387933720801",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "妈妈….言不尽意 https://t.co/WO4nGReoww"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-19T05:43:11.000Z",
+        "description": "如果逃离了这里 请收留我",
+        "id": "1814174084617666560",
+        "name": "不眠雪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029409903560015874/Hg496_qT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 39,
+          "like_count": 304,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 49
+        },
+        "username": "MianXue525",
+        "verified": false
+      }
+    ]
+  }
+}

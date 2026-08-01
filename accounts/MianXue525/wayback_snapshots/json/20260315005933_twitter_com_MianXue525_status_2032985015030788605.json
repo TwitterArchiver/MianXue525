@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1814174084617666560",
+    "conversation_id": "2032985015030788605",
+    "created_at": "2026-03-15T00:59:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-15T01:59:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2032985015030788605"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2032985015030788605",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "包括在途中我一共囤了2400颗普瑞巴林150mg"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1814174084617666560",
+        "conversation_id": "2032985015030788605",
+        "created_at": "2026-03-15T00:59:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T01:59:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032985015030788605"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2032985015030788605",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "包括在途中我一共囤了2400颗普瑞巴林150mg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-19T05:43:11.000Z",
+        "description": "💉ed｜od｜双向｜精分｜餐劵｜无性别❄️\n❄️一个冰雪国度失眠的孩子如果逃离了这里请收留我\n❄️不眠雪 09休学 168 48减肥中❄️",
+        "id": "1814174084617666560",
+        "location": "冰天雪地",
+        "name": "不眠雪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032010530718904320/bue0uZZ-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 524,
+          "following_count": 257,
+          "like_count": 375,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 258
+        },
+        "username": "MianXue525",
+        "verified": true
+      }
+    ]
+  }
+}

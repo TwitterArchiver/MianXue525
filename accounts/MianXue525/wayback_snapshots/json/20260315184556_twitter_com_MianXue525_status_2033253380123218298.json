@@ -1,0 +1,170 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2033253324217331712"
+      ]
+    },
+    "author_id": "1814174084617666560",
+    "conversation_id": "2033253380123218298",
+    "created_at": "2026-03-15T18:45:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-15T19:45:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2033253380123218298"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/G3CNO3hjv2",
+          "end": 34,
+          "expanded_url": "https://x.com/MianXue525/status/2033253380123218298/video/1",
+          "media_key": "13_2033253324217331712",
+          "start": 11,
+          "url": "https://t.co/G3CNO3hjv2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033253380123218298",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "不要随地大小睡呀啊喂 https://t.co/G3CNO3hjv2"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 3800,
+        "height": 960,
+        "media_key": "13_2033253324217331712",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2033253324217331712/img/Tq-GRLZMSTvsIc-T.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2033253324217331712/vid/avc1/320x426/8QLV1uVk1_vOF00v.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2033253324217331712/vid/avc1/480x640/kAymONRu_IkdJLO0.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2033253324217331712/vid/avc1/720x960/6Kp2DFXJ-nmebnPr.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2033253324217331712/pl/wRCy1FG0TmlYg6gm.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2033253324217331712"
+          ]
+        },
+        "author_id": "1814174084617666560",
+        "conversation_id": "2033253380123218298",
+        "created_at": "2026-03-15T18:45:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T19:45:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033253380123218298"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/G3CNO3hjv2",
+              "end": 34,
+              "expanded_url": "https://x.com/MianXue525/status/2033253380123218298/video/1",
+              "media_key": "13_2033253324217331712",
+              "start": 11,
+              "url": "https://t.co/G3CNO3hjv2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033253380123218298",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不要随地大小睡呀啊喂 https://t.co/G3CNO3hjv2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-19T05:43:11.000Z",
+        "description": "♡⋰ ⋱♱⋰ ⋱♡⋰ ⋱♱⋰ ⋱♡⋰ ⋱♱⋰ ⋱♡ \n💉od｜双向｜精分｜餐劵｜无性别❄️\n❄️一个冰雪国度失眠的孩子如果逃离了这里请收留我\n❄️不眠雪 09休学 168 48减肥中查成分回fo❄️ \n❄️提问箱欢迎来玩🫶🏻\nhttps://t.co/lJEWqJRiAE",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E4%B8%8D%E7%9…",
+                "end": 136,
+                "expanded_url": "https://ngl.link/%E4%B8%8D%E7%9C%A0%E9%9B%AA",
+                "start": 113,
+                "url": "https://t.co/lJEWqJRiAE"
+              }
+            ]
+          }
+        },
+        "id": "1814174084617666560",
+        "location": "距离你520米",
+        "name": "不眠雪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032010530718904320/bue0uZZ-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 576,
+          "following_count": 263,
+          "like_count": 378,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 282
+        },
+        "username": "MianXue525",
+        "verified": true
+      }
+    ]
+  }
+}

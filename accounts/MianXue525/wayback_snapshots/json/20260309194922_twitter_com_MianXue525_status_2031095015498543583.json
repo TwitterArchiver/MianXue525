@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1814174084617666560",
+    "conversation_id": "2031095015498543583",
+    "created_at": "2026-03-09T19:49:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-09T20:49:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031095015498543583"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1916434358917033984",
+          "start": 3,
+          "username": "BlackTrapTrip"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031095015498543583",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031064609503764800",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @BlackTrapTrip: 谁还记得24年的时候大家都同意od不扩散不发墙内，到底是哪群傻屌开始往墙内乱发的我真的要把你们杀了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1814174084617666560",
+        "conversation_id": "2031095015498543583",
+        "created_at": "2026-03-09T19:49:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T20:49:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031095015498543583"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1916434358917033984",
+              "start": 3,
+              "username": "BlackTrapTrip"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031095015498543583",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031064609503764800",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @BlackTrapTrip: 谁还记得24年的时候大家都同意od不扩散不发墙内，到底是哪群傻屌开始往墙内乱发的我真的要把你们杀了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1916434358917033984",
+        "conversation_id": "2031064609503764800",
+        "created_at": "2026-03-09T17:48:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T18:48:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031064609503764800"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2031064609503764800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 319,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "谁还记得24年的时候大家都同意od不扩散不发墙内，到底是哪群傻屌开始往墙内乱发的我真的要把你们杀了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-19T05:43:11.000Z",
+        "description": "如果逃离了这里 请收留我",
+        "id": "1814174084617666560",
+        "name": "不眠雪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029409903560015874/Hg496_qT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 49,
+          "like_count": 331,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 80
+        },
+        "username": "MianXue525",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-27T10:09:04.000Z",
+        "description": "=黑阱/Kuroi｜同类互fo欢迎｜she/her❗️非常雷男性称呼｜泛性恋｜纯看黄的不要关注我｜不怎么看私信请谅解｜Individualist Anarchism但不键政｜生活就是sex drugs internet…?｜❗️uncensored #shtwt #odtwt #drugtwt",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 131,
+                "start": 125,
+                "tag": "shtwt"
+              },
+              {
+                "end": 138,
+                "start": 132,
+                "tag": "odtwt"
+              },
+              {
+                "end": 147,
+                "start": 139,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/blacktraptrip",
+                "end": 23,
+                "expanded_url": "https://ngl.link/blacktraptrip",
+                "start": 0,
+                "url": "https://t.co/7wroYHKxQg"
+              }
+            ]
+          }
+        },
+        "id": "1916434358917033984",
+        "location": "无🚪不接不卖任何",
+        "name": "黒阱👁️STONED",
+        "pinned_tweet_id": "2018898278058795017",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019241923777642496/7qiWSBwV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 204,
+          "following_count": 170,
+          "like_count": 1105,
+          "listed_count": 2,
+          "media_count": 84,
+          "tweet_count": 1764
+        },
+        "url": "https://t.co/7wroYHKxQg",
+        "username": "BlackTrapTrip",
+        "verified": false
+      }
+    ]
+  }
+}

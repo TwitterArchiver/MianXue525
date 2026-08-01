@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2044118049616474112"
+      ],
+      "media_source_tweet_id": [
+        "2044118058193826181"
+      ]
+    },
+    "author_id": "1814174084617666560",
+    "conversation_id": "2044163476005003390",
+    "created_at": "2026-04-14T21:18:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T22:18:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044163476005003390"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2032033299980566528",
+          "start": 3,
+          "username": "rinii165892"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ihDW4YDQka",
+          "end": 96,
+          "expanded_url": "https://x.com/rinii165892/status/2044118058193826181/photo/1",
+          "media_key": "16_2044118049616474112",
+          "start": 73,
+          "url": "https://t.co/ihDW4YDQka"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044163476005003390",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044118058193826181",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @rinii165892: 妈妈妈妈我最近在推特上认识了一群大毒笑，我要和他们一起系度，一起割手，一起做爱，呃呃啊啊啊啊啊啊我不要上学哇！ https://t.co/ihDW4YDQka"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 280,
+        "media_key": "16_2044118049616474112",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HF4qiTJasAADWug.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HF4qiTJasAADWug.mp4"
+          }
+        ],
+        "width": 498
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2044118049616474112"
+          ],
+          "media_source_tweet_id": [
+            "2044118058193826181"
+          ]
+        },
+        "author_id": "1814174084617666560",
+        "conversation_id": "2044163476005003390",
+        "created_at": "2026-04-14T21:18:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T22:18:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044163476005003390"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2032033299980566528",
+              "start": 3,
+              "username": "rinii165892"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ihDW4YDQka",
+              "end": 96,
+              "expanded_url": "https://x.com/rinii165892/status/2044118058193826181/photo/1",
+              "media_key": "16_2044118049616474112",
+              "start": 73,
+              "url": "https://t.co/ihDW4YDQka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044163476005003390",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044118058193826181",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @rinii165892: 妈妈妈妈我最近在推特上认识了一群大毒笑，我要和他们一起系度，一起割手，一起做爱，呃呃啊啊啊啊啊啊我不要上学哇！ https://t.co/ihDW4YDQka"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2044118049616474112"
+          ]
+        },
+        "author_id": "2032033299980566528",
+        "conversation_id": "2044118058193826181",
+        "created_at": "2026-04-14T18:18:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T19:18:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044118058193826181"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ihDW4YDQka",
+              "end": 79,
+              "expanded_url": "https://x.com/rinii165892/status/2044118058193826181/photo/1",
+              "media_key": "16_2044118049616474112",
+              "start": 56,
+              "url": "https://t.co/ihDW4YDQka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044118058193826181",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 274,
+          "like_count": 18,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "妈妈妈妈我最近在推特上认识了一群大毒笑，我要和他们一起系度，一起割手，一起做爱，呃呃啊啊啊啊啊啊我不要上学哇！ https://t.co/ihDW4YDQka"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-19T05:43:11.000Z",
+        "description": "❄️♡⋰ ⋱♱⋰ ⋱♡⋰ ⋱♱⋰ ⋱♡⋰ ⋱♱⋰ ⋱♡ ❄️\n♡⋰ ♱💉od｜双向｜精分｜餐劵｜无性别❄️ ♱ ⋱♡\n♡ ❄️眠雪 09休学（回fo餐劵.od.跨妹.女孩子）❄️ ♡\n ♡⋰ 🌙 月は見ている時だけ存在💧 ⋱♡\n🐾♱❄️网站链接提问箱欢迎来玩🫶🏻❄️ ♱🐾",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E4%B8%8D%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E4%B8%8D%E7%9C%A0%E9%9B%AA",
+                "start": 0,
+                "url": "https://t.co/lJEWqJRiAE"
+              }
+            ]
+          }
+        },
+        "id": "1814174084617666560",
+        "location": "距离你520米",
+        "name": "不眠雪❄️",
+        "pinned_tweet_id": "2040247165252247975",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040922964645007360/CCSlCpXW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1943,
+          "following_count": 346,
+          "like_count": 654,
+          "listed_count": 1,
+          "media_count": 184,
+          "tweet_count": 874
+        },
+        "url": "https://t.co/lJEWqJRiAE",
+        "username": "MianXue525",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-12T09:58:00.000Z",
+        "description": "我叫晶给你们全抓了【寻回推u】🔪\n- ✰*🎀 ੈ✩🍥✰*💗 ੈ✩- \n生活在互联网！看成分互fo喵!/我是低龄糖逼大傻福，实在抱歉！\n超级严重失眠 -12现役初中生\n^✟❀信徒@Fislonely_❀灵宠@dbdbsjbsja❀小号@hg3551019177402✿永远纪念@wu_si787878❀✟",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 88,
+                "username": "Fislonely_"
+              },
+              {
+                "end": 113,
+                "start": 102,
+                "username": "dbdbsjbsja"
+              },
+              {
+                "end": 132,
+                "start": 116,
+                "username": "hg3551019177402"
+              },
+              {
+                "end": 149,
+                "start": 137,
+                "username": "wu_si787878"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/iirin53261",
+                "end": 23,
+                "expanded_url": "https://ngl.link/iirin53261",
+                "start": 0,
+                "url": "https://t.co/1rBZJU4xmt"
+              }
+            ]
+          }
+        },
+        "id": "2032033299980566528",
+        "location": "你看看你身后",
+        "name": "霖（完全病娇邪恶中2.0）",
+        "pinned_tweet_id": "2038261710612729866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040872269401276416/xul0eQRI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1143,
+          "following_count": 716,
+          "like_count": 5084,
+          "listed_count": 5,
+          "media_count": 110,
+          "tweet_count": 2754
+        },
+        "url": "https://t.co/1rBZJU4xmt",
+        "username": "rinii165892",
+        "verified": false
+      }
+    ]
+  }
+}

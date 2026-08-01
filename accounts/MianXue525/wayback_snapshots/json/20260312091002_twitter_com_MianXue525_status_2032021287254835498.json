@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1814174084617666560",
+    "conversation_id": "2031990873228288332",
+    "created_at": "2026-03-12T09:10:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-12T10:10:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032021287254835498"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2029961856966881280",
+          "start": 0,
+          "username": "uuu_kiiyuu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032021287254835498",
+    "in_reply_to_user_id": "2029961856966881280",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031990873228288332",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@uuu_kiiyuu 赛高"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1814174084617666560",
+        "conversation_id": "2031990873228288332",
+        "created_at": "2026-03-12T09:10:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T10:10:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032021287254835498"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2029961856966881280",
+              "start": 0,
+              "username": "uuu_kiiyuu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032021287254835498",
+        "in_reply_to_user_id": "2029961856966881280",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031990873228288332",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uuu_kiiyuu 赛高"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029961856966881280",
+        "conversation_id": "2031990873228288332",
+        "created_at": "2026-03-12T07:09:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T08:09:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031990873228288332"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2031990873228288332",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "嚼吐最棒⭕"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-19T05:43:11.000Z",
+        "description": "如果逃离了这里 请收留我",
+        "id": "1814174084617666560",
+        "name": "不眠雪",
+        "pinned_tweet_id": "2031964183848501341",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032010530718904320/bue0uZZ-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 338,
+          "following_count": 206,
+          "like_count": 357,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 188
+        },
+        "username": "MianXue525",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-06T16:46:53.000Z",
+        "description": "-ˋˏ✄┈┈┈┈ EN/中…日记… 08…♀…170cm\n\n𓏲𑁘 𓏲੭\n\n求互fo ~ 语言都OK",
+        "id": "2029961856966881280",
+        "name": "芮",
+        "pinned_tweet_id": "2031071781872873800",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031076069563052034/gYaecmRk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 34,
+          "like_count": 161,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 30
+        },
+        "username": "uuu_kiiyuu",
+        "verified": false
+      }
+    ]
+  }
+}

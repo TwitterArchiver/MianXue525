@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1814174084617666560",
+    "conversation_id": "2032370061315620924",
+    "created_at": "2026-03-13T11:25:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-13T12:25:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032417727852466440"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1775044444984897536",
+          "start": 0,
+          "username": "hua381747091501"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032417727852466440",
+    "in_reply_to_user_id": "1775044444984897536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032417292404056116",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hua381747091501 蘑菇软糖"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1814174084617666560",
+        "conversation_id": "2032370061315620924",
+        "created_at": "2026-03-13T11:25:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T12:25:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032417727852466440"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1775044444984897536",
+              "start": 0,
+              "username": "hua381747091501"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032417727852466440",
+        "in_reply_to_user_id": "1775044444984897536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032417292404056116",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hua381747091501 蘑菇软糖"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1775044444984897536",
+        "conversation_id": "2032370061315620924",
+        "created_at": "2026-03-13T11:23:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T12:23:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032417292404056116"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1814174084617666560",
+              "start": 0,
+              "username": "MianXue525"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032417292404056116",
+        "in_reply_to_user_id": "1814174084617666560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032370061315620924",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MianXue525 这是什么？邮票？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-19T05:43:11.000Z",
+        "description": "如果逃离了这里 请收留我",
+        "id": "1814174084617666560",
+        "name": "不眠雪",
+        "pinned_tweet_id": "2032097446290211194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032010530718904320/bue0uZZ-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 391,
+          "following_count": 226,
+          "like_count": 359,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 205
+        },
+        "username": "MianXue525",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-02T06:16:13.000Z",
+        "description": "如果你喜欢我，那么我们是朋友。如果你不喜欢我，那我操你妈，我上网就是来当皇帝的。",
+        "id": "1775044444984897536",
+        "name": "hua",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031774003824939008/SIrECKns_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 14,
+          "like_count": 381,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 106
+        },
+        "username": "hua381747091501",
+        "verified": false
+      }
+    ]
+  }
+}

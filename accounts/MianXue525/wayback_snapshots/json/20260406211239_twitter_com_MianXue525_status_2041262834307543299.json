@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1814174084617666560",
+    "conversation_id": "2041206709159674268",
+    "created_at": "2026-04-06T21:12:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T22:12:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041262834307543299"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1620479004506730496",
+          "start": 0,
+          "username": "sjzmrfz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041262834307543299",
+    "in_reply_to_user_id": "1620479004506730496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041261023081160831",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sjzmrfz 可以定制乌蒙低手成绩图(´-ω-`)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1814174084617666560",
+        "conversation_id": "2041206709159674268",
+        "created_at": "2026-04-06T21:12:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T22:12:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041262834307543299"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1620479004506730496",
+              "start": 0,
+              "username": "sjzmrfz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041262834307543299",
+        "in_reply_to_user_id": "1620479004506730496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041261023081160831",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sjzmrfz 可以定制乌蒙低手成绩图(´-ω-`)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620479004506730496",
+        "conversation_id": "2041206709159674268",
+        "created_at": "2026-04-06T21:05:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T22:05:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041261023081160831"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1814174084617666560",
+              "start": 0,
+              "username": "MianXue525"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041261023081160831",
+        "in_reply_to_user_id": "1814174084617666560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041206709159674268",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MianXue525 能不能定制别的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-19T05:43:11.000Z",
+        "description": "❄️♡⋰ ⋱♱⋰ ⋱♡⋰ ⋱♱⋰ ⋱♡⋰ ⋱♱⋰ ⋱♡ ❄️\n♡⋰ ♱💉od｜双向｜精分｜餐劵｜无性别❄️ ♱ ⋱♡\n♡❄️不眠雪 09休学 回fo餐劵.od.跨妹.女孩子❄️ ♡\n ♡⋰ 🌙 月は見ている時だけ存在💧 ⋱♡\n🐾♱❄️网站链接提问箱欢迎来玩🫶🏻❄️ ♱🐾",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E4%B8%8D%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E4%B8%8D%E7%9C%A0%E9%9B%AA",
+                "start": 0,
+                "url": "https://t.co/lJEWqJRiAE"
+              }
+            ]
+          }
+        },
+        "id": "1814174084617666560",
+        "location": "距离你520米",
+        "name": "不眠雪❄️",
+        "pinned_tweet_id": "2040247165252247975",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040922964645007360/CCSlCpXW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1727,
+          "following_count": 334,
+          "like_count": 543,
+          "listed_count": 1,
+          "media_count": 144,
+          "tweet_count": 670
+        },
+        "url": "https://t.co/lJEWqJRiAE",
+        "username": "MianXue525",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-31T17:48:04.000Z",
+        "description": "线下🚪100\n只回关自己认识的人所以别私信问我了\n改成奇怪的名字是怕被现实里朋友发现\n不定期删推因为我废话太多了\n普通明日方舟，碧蓝档案，nikke玩家\n06年，19岁，已成年\ntg群https://t.co/M8SlHgT9oh",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+R19_K2lkL24wZ…",
+                "end": 115,
+                "expanded_url": "https://t.me/+R19_K2lkL24wZmM1",
+                "start": 92,
+                "url": "https://t.co/M8SlHgT9oh"
+              }
+            ]
+          }
+        },
+        "id": "1620479004506730496",
+        "location": "广深/京津",
+        "name": "炽火叶",
+        "pinned_tweet_id": "2008826773337960949",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040035501764489216/qCQZx_QV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8144,
+          "following_count": 524,
+          "like_count": 36487,
+          "listed_count": 44,
+          "media_count": 279,
+          "tweet_count": 2734
+        },
+        "username": "sjzmrfz",
+        "verified": false
+      }
+    ]
+  }
+}

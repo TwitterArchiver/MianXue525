@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2040848129738805248"
+      ]
+    },
+    "author_id": "1814174084617666560",
+    "conversation_id": "2040848497239540208",
+    "created_at": "2026-04-05T17:46:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T18:46:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2040848497239540208"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/4THWsEZnpA",
+          "end": 34,
+          "expanded_url": "https://x.com/MianXue525/status/2040848497239540208/video/1",
+          "media_key": "13_2040848129738805248",
+          "start": 11,
+          "url": "https://t.co/4THWsEZnpA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040848497239540208",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "开房聚众吸毒中^_^ https://t.co/4THWsEZnpA"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10933,
+        "height": 1280,
+        "media_key": "13_2040848129738805248",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2040848129738805248/img/sXxEGN4u_a73gDKr.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2040848129738805248/vid/avc1/320x568/hrs4ErMyYKegR1g8.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2040848129738805248/vid/avc1/480x852/zxPYZCEfppeyVqtc.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2040848129738805248/vid/avc1/720x1280/Ur9sC5Ft-uShdR30.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2040848129738805248/pl/ozfCEOu-5K14pFb6.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2040848129738805248"
+          ]
+        },
+        "author_id": "1814174084617666560",
+        "conversation_id": "2040848497239540208",
+        "created_at": "2026-04-05T17:46:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T18:46:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040848497239540208"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4THWsEZnpA",
+              "end": 34,
+              "expanded_url": "https://x.com/MianXue525/status/2040848497239540208/video/1",
+              "media_key": "13_2040848129738805248",
+              "start": 11,
+              "url": "https://t.co/4THWsEZnpA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040848497239540208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "开房聚众吸毒中^_^ https://t.co/4THWsEZnpA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-19T05:43:11.000Z",
+        "description": "❄️♡⋰ ⋱♱⋰ ⋱♡⋰ ⋱♱⋰ ⋱♡⋰ ⋱♱⋰ ⋱♡ ❄️\n♡⋰ ♱💉od｜双向｜精分｜餐劵｜无性别❄️ ♱ ⋱♡\n♡❄️不眠雪 09休学 回fo餐劵.od.跨妹.女孩子❄️ ♡\n ♡⋰ 🌙 月は見ている時だけ存在💧 ⋱♡\n🐾♱❄️网站链接提问箱欢迎来玩🫶🏻❄️ ♱🐾",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E4%B8%8D%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E4%B8%8D%E7%9C%A0%E9%9B%AA",
+                "start": 0,
+                "url": "https://t.co/lJEWqJRiAE"
+              }
+            ]
+          }
+        },
+        "id": "1814174084617666560",
+        "location": "距离你520米",
+        "name": "不眠雪❄️",
+        "pinned_tweet_id": "2040247165252247975",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040848469154553856/d_aLtTuh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1695,
+          "following_count": 330,
+          "like_count": 522,
+          "listed_count": 1,
+          "media_count": 143,
+          "tweet_count": 639
+        },
+        "url": "https://t.co/lJEWqJRiAE",
+        "username": "MianXue525",
+        "verified": false
+      }
+    ]
+  }
+}

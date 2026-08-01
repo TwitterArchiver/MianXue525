@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1814174084617666560",
+    "conversation_id": "2031793261174800799",
+    "created_at": "2026-03-11T18:35:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-11T19:35:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031801320899051721"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2031801320899051721",
+    "in_reply_to_user_id": "1814174084617666560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031793261174800799",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "当时天天抽天天向上，现在恶心死了抽一口要吐"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 2431,
+        "height": 144,
+        "media_key": "13_2031793251347472384",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2031793251347472384/img/ho_SW4EsorYZe56t.jpg",
+        "public_metrics": {
+          "view_count": 58
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2031793251347472384/vid/avc1/176x144/nskY1QSZBqLSUTqR.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2031793251347472384/pl/C2By6n2fkU5ctFRc.m3u8"
+          }
+        ],
+        "width": 176
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1814174084617666560",
+        "conversation_id": "2031793261174800799",
+        "created_at": "2026-03-11T18:35:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T19:35:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031801320899051721"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2031801320899051721",
+        "in_reply_to_user_id": "1814174084617666560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031793261174800799",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "当时天天抽天天向上，现在恶心死了抽一口要吐"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2031793251347472384"
+          ]
+        },
+        "author_id": "1814174084617666560",
+        "conversation_id": "2031793261174800799",
+        "created_at": "2026-03-11T18:03:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T19:03:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031793261174800799"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4PZ0yjDtB3",
+              "end": 28,
+              "expanded_url": "https://x.com/MianXue525/status/2031793261174800799/video/1",
+              "media_key": "13_2031793251347472384",
+              "start": 5,
+              "url": "https://t.co/4PZ0yjDtB3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031793261174800799",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 106,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "烟头烫你 https://t.co/4PZ0yjDtB3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-19T05:43:11.000Z",
+        "description": "如果逃离了这里 请收留我",
+        "id": "1814174084617666560",
+        "name": "不眠雪",
+        "pinned_tweet_id": "2031785120320106873",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029409903560015874/Hg496_qT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 227,
+          "following_count": 147,
+          "like_count": 349,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 157
+        },
+        "username": "MianXue525",
+        "verified": false
+      }
+    ]
+  }
+}

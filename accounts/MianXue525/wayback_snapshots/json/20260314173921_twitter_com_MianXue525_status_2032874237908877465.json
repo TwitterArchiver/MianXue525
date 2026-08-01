@@ -1,0 +1,131 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1814174084617666560",
+    "conversation_id": "2032874237908877465",
+    "created_at": "2026-03-14T17:39:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-14T18:39:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2032874237908877465"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1999717719508492288",
+          "start": 0,
+          "username": "zzp1261305"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032874237908877465",
+    "in_reply_to_user_id": "1999717719508492288",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "@zzp1261305"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1814174084617666560",
+        "conversation_id": "2032874237908877465",
+        "created_at": "2026-03-14T17:39:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T18:39:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032874237908877465"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1999717719508492288",
+              "start": 0,
+              "username": "zzp1261305"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032874237908877465",
+        "in_reply_to_user_id": "1999717719508492288",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@zzp1261305"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-19T05:43:11.000Z",
+        "description": "💉ed/od/双向/精分/无性别🧬\n💌不眠雪 09休学 168 48减肥中🎀\n   ❄️如果逃离了这里 请收留我❄️",
+        "id": "1814174084617666560",
+        "location": "冰天雪地",
+        "name": "不眠雪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032010530718904320/bue0uZZ-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 509,
+          "following_count": 254,
+          "like_count": 374,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 252
+        },
+        "username": "MianXue525",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-13T05:47:35.000Z",
+        "description": "OIer | 前男娘，现mtf | 双相 | 已休学 | hrt:2026.1.31 | 自由主义 |  INFP丨欢迎互fo喵~",
+        "id": "1999717719508492288",
+        "name": "🏳️‍⚧️传说中的蒟蒻果冻🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999722596506673152/vXtZ4YIB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 193,
+          "following_count": 253,
+          "like_count": 23645,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 127
+        },
+        "username": "zzp1261305",
+        "verified": false
+      }
+    ]
+  }
+}

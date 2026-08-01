@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1814174084617666560",
+    "conversation_id": "2036930650356539627",
+    "created_at": "2026-03-25T22:25:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-25T23:25:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036932563244376181"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1359183629822296066",
+          "start": 0,
+          "username": "nmsl666520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036932563244376181",
+    "in_reply_to_user_id": "1359183629822296066",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036930650356539627",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nmsl666520 是的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1814174084617666560",
+        "conversation_id": "2036930650356539627",
+        "created_at": "2026-03-25T22:25:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T23:25:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036932563244376181"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1359183629822296066",
+              "start": 0,
+              "username": "nmsl666520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036932563244376181",
+        "in_reply_to_user_id": "1359183629822296066",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036930650356539627",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nmsl666520 是的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1359183629822296066",
+        "conversation_id": "2036930650356539627",
+        "created_at": "2026-03-25T22:18:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T23:18:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036930650356539627"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mianxue525/sta…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/mianxue525/status/2036775698887750142",
+              "start": 7,
+              "url": "https://t.co/b0hY6N7Wbe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036930650356539627",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036775698887750142",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "24t就这样 https://t.co/b0hY6N7Wbe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-19T05:43:11.000Z",
+        "description": "❄️♡⋰ ⋱♱⋰ ⋱♡⋰ ⋱♱⋰ ⋱♡⋰ ⋱♱⋰ ⋱♡ ❄️\n💉od｜双向｜精分｜餐劵｜无性别❄️\n❄️一个冰雪国度失眠的孩子若逃离了这里请收留我❄️\n❄️不眠雪 09休学 168 48减肥中查成分回fo❄️ \n❄️提问箱欢迎来玩🫶🏻",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E4%B8%8D%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E4%B8%8D%E7%9C%A0%E9%9B%AA",
+                "start": 0,
+                "url": "https://t.co/lJEWqJRiAE"
+              }
+            ]
+          }
+        },
+        "id": "1814174084617666560",
+        "location": "距离你520米",
+        "name": "不眠雪❄️",
+        "pinned_tweet_id": "2036437694541340814",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032010530718904320/bue0uZZ-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 980,
+          "following_count": 287,
+          "like_count": 428,
+          "listed_count": 0,
+          "media_count": 95,
+          "tweet_count": 429
+        },
+        "url": "https://t.co/lJEWqJRiAE",
+        "username": "MianXue525",
+        "verified": true
+      },
+      {
+        "created_at": "2021-02-09T16:53:42.000Z",
+        "description": "爱自残的喜欢女孩子还喜欢sage的女孩子\n祝所有贱逼全家不得好死",
+        "id": "1359183629822296066",
+        "location": "魏玲莹我好想你",
+        "name": "魏玲莹的奶子",
+        "pinned_tweet_id": "1805330766869540949",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036617458589831168/I4LOlzzd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 322,
+          "following_count": 699,
+          "like_count": 2816,
+          "listed_count": 1,
+          "media_count": 95,
+          "tweet_count": 876
+        },
+        "username": "nmsl666520",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1814174084617666560",
+    "conversation_id": "2032715754727158033",
+    "created_at": "2026-03-18T15:49:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-18T16:49:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034296021736669288"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1889969000979054594",
+          "start": 0,
+          "username": "ameame1438809"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034296021736669288",
+    "in_reply_to_user_id": "1889969000979054594",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032715754727158033",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ameame1438809 不会…戒断太痛苦…."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1814174084617666560",
+        "conversation_id": "2032715754727158033",
+        "created_at": "2026-03-18T15:49:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T16:49:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034296021736669288"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1889969000979054594",
+              "start": 0,
+              "username": "ameame1438809"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034296021736669288",
+        "in_reply_to_user_id": "1889969000979054594",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032715754727158033",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ameame1438809 不会…戒断太痛苦…."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1889969000979054594",
+        "conversation_id": "2032715754727158033",
+        "created_at": "2026-03-14T07:09:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T08:09:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032715754727158033"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2032715754727158033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 43302,
+          "like_count": 184,
+          "quote_count": 7,
+          "reply_count": 74,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "如果有选择，大家还会选择od或吸毒吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-19T05:43:11.000Z",
+        "description": "♡⋰ ⋱♱⋰ ⋱♡⋰ ⋱♱⋰ ⋱♡⋰ ⋱♱⋰ ⋱♡ \n💉od｜双向｜精分｜餐劵｜无性别❄️\n❄️一个冰雪国度失眠的孩子如果逃离了这里请收留我\n❄️不眠雪 09休学 168 48减肥中查成分回fo❄️ \n❄️提问箱欢迎来玩🫶🏻\nhttps://t.co/lJEWqJRiAE",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E4%B8%8D%E7%9…",
+                "end": 136,
+                "expanded_url": "https://ngl.link/%E4%B8%8D%E7%9C%A0%E9%9B%AA",
+                "start": 113,
+                "url": "https://t.co/lJEWqJRiAE"
+              }
+            ]
+          }
+        },
+        "id": "1814174084617666560",
+        "location": "距离你520米",
+        "name": "不眠雪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032010530718904320/bue0uZZ-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 634,
+          "following_count": 277,
+          "like_count": 390,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 312
+        },
+        "username": "MianXue525",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-13T09:25:29.000Z",
+        "description": "头像名字灵感来源于广州吸毒",
+        "id": "1889969000979054594",
+        "location": "上海市",
+        "name": "上海市吸毒局",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032351529618038784/kE-9sYxM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147,
+          "following_count": 26,
+          "like_count": 186,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 83
+        },
+        "username": "ameame1438809",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1814174084617666560",
+    "conversation_id": "2044465005693636679",
+    "created_at": "2026-04-15T23:02:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T00:02:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044551927476981800"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1917804398824022016",
+          "start": 0,
+          "username": "lne_li19885"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044551927476981800",
+    "in_reply_to_user_id": "1917804398824022016",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044465005693636679",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lne_li19885 我前天到了10盒"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1814174084617666560",
+        "conversation_id": "2044465005693636679",
+        "created_at": "2026-04-15T23:02:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T00:02:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044551927476981800"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1917804398824022016",
+              "start": 0,
+              "username": "lne_li19885"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044551927476981800",
+        "in_reply_to_user_id": "1917804398824022016",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044465005693636679",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lne_li19885 我前天到了10盒"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917804398824022016",
+        "conversation_id": "2044465005693636679",
+        "created_at": "2026-04-15T17:16:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T18:16:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044465005693636679"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044465005693636679",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "现在买愈美会不会被晶啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-19T05:43:11.000Z",
+        "description": "❄️♡⋰ ⋱♱⋰ ⋱♡⋰ ⋱♱⋰ ⋱♡⋰ ⋱♱⋰ ⋱♡ ❄️\n♡⋰ ♱💉od｜双向｜精分｜餐劵｜无性别❄️ ♱ ⋱♡\n♡ ❄️眠雪 09休学（回fo餐劵.od.跨妹.女孩子）❄️ ♡\n ♡⋰ 🌙 月は見ている時だけ存在💧 ⋱♡\n🐾♱❄️网站链接提问箱欢迎来玩🫶🏻❄️ ♱🐾",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E4%B8%8D%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E4%B8%8D%E7%9C%A0%E9%9B%AA",
+                "start": 0,
+                "url": "https://t.co/lJEWqJRiAE"
+              }
+            ]
+          }
+        },
+        "id": "1814174084617666560",
+        "location": "距离你520米",
+        "name": "不眠雪❄️",
+        "pinned_tweet_id": "2040247165252247975",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040922964645007360/CCSlCpXW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1945,
+          "following_count": 351,
+          "like_count": 683,
+          "listed_count": 1,
+          "media_count": 187,
+          "tweet_count": 898
+        },
+        "url": "https://t.co/lJEWqJRiAE",
+        "username": "MianXue525",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-01T04:53:03.000Z",
+        "description": "🤍ྀི⁃ ⩊ ⁃ 纯0 喜欢女生 男的勿扰",
+        "id": "1917804398824022016",
+        "name": "Painkiller",
+        "pinned_tweet_id": "2043610651600290210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029979417678860288/Ii2ARh4o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 323,
+          "following_count": 117,
+          "like_count": 1311,
+          "listed_count": 0,
+          "media_count": 98,
+          "tweet_count": 719
+        },
+        "username": "lne_li19885",
+        "verified": false
+      }
+    ]
+  }
+}

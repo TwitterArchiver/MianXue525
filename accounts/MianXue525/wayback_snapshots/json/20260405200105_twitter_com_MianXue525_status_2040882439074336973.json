@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1814174084617666560",
+    "conversation_id": "2040849140968743039",
+    "created_at": "2026-04-05T20:01:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T21:01:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040882439074336973"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1911429624694730753",
+          "start": 0,
+          "username": "huixue888"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040882439074336973",
+    "in_reply_to_user_id": "1911429624694730753",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040849140968743039",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huixue888 这个奶猪怎么这么萌"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4276,
+        "height": 1280,
+        "media_key": "13_2040849083854987264",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2040849083854987264/img/an9H3DAvms4QE9bR.jpg",
+        "public_metrics": {
+          "view_count": 78
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2040849083854987264/vid/avc1/320x568/RQpeUX4jt18hMuJx.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2040849083854987264/vid/avc1/480x852/tOLkpnty4HW7OCe3.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2040849083854987264/vid/avc1/720x1280/RmFH901Wh5GsT1bw.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2040849083854987264/pl/UeUVpT6TkBLPN76t.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1814174084617666560",
+        "conversation_id": "2040849140968743039",
+        "created_at": "2026-04-05T20:01:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T21:01:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040882439074336973"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1911429624694730753",
+              "start": 0,
+              "username": "huixue888"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040882439074336973",
+        "in_reply_to_user_id": "1911429624694730753",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040849140968743039",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huixue888 这个奶猪怎么这么萌"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2040849083854987264"
+          ]
+        },
+        "author_id": "1911429624694730753",
+        "conversation_id": "2040849140968743039",
+        "created_at": "2026-04-05T17:48:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T18:48:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040849140968743039"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zYNMkDxIaw",
+              "end": 31,
+              "expanded_url": "https://x.com/huixue888/status/2040849140968743039/video/1",
+              "media_key": "13_2040849083854987264",
+              "start": 8,
+              "url": "https://t.co/zYNMkDxIaw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040849140968743039",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 223,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "又开饭了兄弟萌 https://t.co/zYNMkDxIaw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-19T05:43:11.000Z",
+        "description": "❄️♡⋰ ⋱♱⋰ ⋱♡⋰ ⋱♱⋰ ⋱♡⋰ ⋱♱⋰ ⋱♡ ❄️\n♡⋰ ♱💉od｜双向｜精分｜餐劵｜无性别❄️ ♱ ⋱♡\n♡❄️不眠雪 09休学 回fo餐劵.od.跨妹.女孩子❄️ ♡\n ♡⋰ 🌙 月は見ている時だけ存在💧 ⋱♡\n🐾♱❄️网站链接提问箱欢迎来玩🫶🏻❄️ ♱🐾",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E4%B8%8D%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E4%B8%8D%E7%9C%A0%E9%9B%AA",
+                "start": 0,
+                "url": "https://t.co/lJEWqJRiAE"
+              }
+            ]
+          }
+        },
+        "id": "1814174084617666560",
+        "location": "距离你520米",
+        "name": "不眠雪❄️",
+        "pinned_tweet_id": "2040247165252247975",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040850692127215616/c2JnP7xx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1695,
+          "following_count": 330,
+          "like_count": 527,
+          "listed_count": 1,
+          "media_count": 143,
+          "tweet_count": 647
+        },
+        "url": "https://t.co/lJEWqJRiAE",
+        "username": "MianXue525",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-13T14:42:06.000Z",
+        "description": "HRT2024.2.18｜09高中辍学｜超级社恐｜喜欢听0014556 尹康 小怜 极贵｜同类，od妹，边缘化青少年互fo好不好！（会查成分\n｜不鉴证 不发黄｜",
+        "id": "1911429624694730753",
+        "location": "上海",
+        "name": "奶猪",
+        "pinned_tweet_id": "2031575477773808131",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024139862908002305/H8Uz73bI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 334,
+          "following_count": 250,
+          "like_count": 3523,
+          "listed_count": 1,
+          "media_count": 56,
+          "tweet_count": 951
+        },
+        "username": "huixue888",
+        "verified": false
+      }
+    ]
+  }
+}

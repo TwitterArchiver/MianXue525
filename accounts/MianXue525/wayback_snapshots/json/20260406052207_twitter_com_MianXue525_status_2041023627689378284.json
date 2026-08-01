@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1814174084617666560",
+    "conversation_id": "2041023627689378284",
+    "created_at": "2026-04-06T05:22:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T06:22:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2041023627689378284"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/guangzhouxidu/…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/guangzhouxidu/status/2041015213496103228",
+          "start": 6,
+          "url": "https://t.co/MY1gnmQOoS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041023627689378284",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041015213496103228",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我去刚转发 https://t.co/MY1gnmQOoS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 962,
+        "media_key": "3_2041013681417588736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFMjISabkAAXZg4.jpg",
+        "width": 522
+      },
+      {
+        "height": 953,
+        "media_key": "3_2041013681274884097",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFMjIR4aEAE8Ri4.jpg",
+        "width": 509
+      },
+      {
+        "height": 939,
+        "media_key": "3_2041013677571346432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFMjIEFakAA_uHA.jpg",
+        "width": 1725
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1814174084617666560",
+        "conversation_id": "2041023627689378284",
+        "created_at": "2026-04-06T05:22:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T06:22:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041023627689378284"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/guangzhouxidu/…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/guangzhouxidu/status/2041015213496103228",
+              "start": 6,
+              "url": "https://t.co/MY1gnmQOoS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041023627689378284",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041015213496103228",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我去刚转发 https://t.co/MY1gnmQOoS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041013681417588736",
+            "3_2041013681274884097",
+            "3_2041013677571346432"
+          ]
+        },
+        "author_id": "2032802107745824768",
+        "conversation_id": "2041015213496103228",
+        "created_at": "2026-04-06T04:48:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T05:48:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041015213496103228"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3SyzOHK59D",
+              "end": 139,
+              "expanded_url": "https://x.com/guangzhouxidu/status/2041015213496103228/photo/1",
+              "media_key": "3_2041013681417588736",
+              "start": 116,
+              "url": "https://t.co/3SyzOHK59D"
+            },
+            {
+              "display_url": "pic.x.com/3SyzOHK59D",
+              "end": 139,
+              "expanded_url": "https://x.com/guangzhouxidu/status/2041015213496103228/photo/1",
+              "media_key": "3_2041013681274884097",
+              "start": 116,
+              "url": "https://t.co/3SyzOHK59D"
+            },
+            {
+              "display_url": "pic.x.com/3SyzOHK59D",
+              "end": 139,
+              "expanded_url": "https://x.com/guangzhouxidu/status/2041015213496103228/photo/1",
+              "media_key": "3_2041013677571346432",
+              "start": 116,
+              "url": "https://t.co/3SyzOHK59D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041015213496103228",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不要转发小何的抽奖，此类骗子以抽奖赠送等名义博取流量，也根本不会送出，和之前的大王类似，后续受害者会在大量评论转发量无法分辨真假，其发布的图片也是盗图，并且还是沃尔玛能购买的普通软糖，不要给此类骗子转发评论白送流量，成为诈骗的帮凶 https://t.co/3SyzOHK59D"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-19T05:43:11.000Z",
+        "description": "❄️♡⋰ ⋱♱⋰ ⋱♡⋰ ⋱♱⋰ ⋱♡⋰ ⋱♱⋰ ⋱♡ ❄️\n♡⋰ ♱💉od｜双向｜精分｜餐劵｜无性别❄️ ♱ ⋱♡\n♡❄️不眠雪 09休学 回fo餐劵.od.跨妹.女孩子❄️ ♡\n ♡⋰ 🌙 月は見ている時だけ存在💧 ⋱♡\n🐾♱❄️网站链接提问箱欢迎来玩🫶🏻❄️ ♱🐾",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E4%B8%8D%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E4%B8%8D%E7%9C%A0%E9%9B%AA",
+                "start": 0,
+                "url": "https://t.co/lJEWqJRiAE"
+              }
+            ]
+          }
+        },
+        "id": "1814174084617666560",
+        "location": "距离你520米",
+        "name": "不眠雪❄️",
+        "pinned_tweet_id": "2040247165252247975",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040922964645007360/CCSlCpXW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1704,
+          "following_count": 332,
+          "like_count": 537,
+          "listed_count": 1,
+          "media_count": 144,
+          "tweet_count": 662
+        },
+        "url": "https://t.co/lJEWqJRiAE",
+        "username": "MianXue525",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-14T12:53:56.000Z",
+        "description": "广州市吸毒局吸毒支队官方推特号，药圈民办派出所 私信常开，接受投稿 报案，不出售任何产品，谨防骗子，反诈安全宣传一刻不容停息，关注局长 防范骗局",
+        "id": "2032802107745824768",
+        "name": "广州吸毒",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032802565499637760/AQs27st5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 340,
+          "following_count": 31,
+          "like_count": 17,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 42
+        },
+        "username": "guangzhouxidu",
+        "verified": false
+      }
+    ]
+  }
+}

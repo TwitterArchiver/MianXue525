@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1814174084617666560",
+    "conversation_id": "2044371340065747267",
+    "created_at": "2026-04-15T16:45:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T17:45:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044457010088087799"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1793491174122192896",
+          "start": 0,
+          "username": "boilingwatter"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044457010088087799",
+    "in_reply_to_user_id": "1793491174122192896",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044371340065747267",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@boilingwatter 想喝🤤"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2044371332037824512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF8Q5RsbUAAdPNI.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1814174084617666560",
+        "conversation_id": "2044371340065747267",
+        "created_at": "2026-04-15T16:45:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T17:45:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044457010088087799"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1793491174122192896",
+              "start": 0,
+              "username": "boilingwatter"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044457010088087799",
+        "in_reply_to_user_id": "1793491174122192896",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044371340065747267",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@boilingwatter 想喝🤤"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044371332037824512"
+          ]
+        },
+        "author_id": "1793491174122192896",
+        "conversation_id": "2044371340065747267",
+        "created_at": "2026-04-15T11:04:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T12:04:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044371340065747267"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/35Xvkn46di",
+              "end": 35,
+              "expanded_url": "https://x.com/boilingwatter/status/2044371340065747267/photo/1",
+              "media_key": "3_2044371332037824512",
+              "start": 12,
+              "url": "https://t.co/35Xvkn46di"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044371340065747267",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 273,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "巧克力奶奶！超级好喝！ https://t.co/35Xvkn46di"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-19T05:43:11.000Z",
+        "description": "❄️♡⋰ ⋱♱⋰ ⋱♡⋰ ⋱♱⋰ ⋱♡⋰ ⋱♱⋰ ⋱♡ ❄️\n♡⋰ ♱💉od｜双向｜精分｜餐劵｜无性别❄️ ♱ ⋱♡\n♡ ❄️眠雪 09休学（回fo餐劵.od.跨妹.女孩子）❄️ ♡\n ♡⋰ 🌙 月は見ている時だけ存在💧 ⋱♡\n🐾♱❄️网站链接提问箱欢迎来玩🫶🏻❄️ ♱🐾",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E4%B8%8D%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E4%B8%8D%E7%9C%A0%E9%9B%AA",
+                "start": 0,
+                "url": "https://t.co/lJEWqJRiAE"
+              }
+            ]
+          }
+        },
+        "id": "1814174084617666560",
+        "location": "距离你520米",
+        "name": "不眠雪❄️",
+        "pinned_tweet_id": "2040247165252247975",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040922964645007360/CCSlCpXW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1945,
+          "following_count": 348,
+          "like_count": 679,
+          "listed_count": 1,
+          "media_count": 186,
+          "tweet_count": 891
+        },
+        "url": "https://t.co/lJEWqJRiAE",
+        "username": "MianXue525",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-23T03:56:45.000Z",
+        "description": "南氵氵叫我水水就行🥺||语言：中文/English||目前精神状态良好||眼熟的和喜欢的我会自动fo你哦🥺（不fo发diao照的和看黄男）||什么都想干但是目前为止都一事无成的废水，也许明天会好起来的",
+        "id": "1793491174122192896",
+        "name": "boilingwatter🍔",
+        "pinned_tweet_id": "1988774529741758740",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1793491539148349441/GiFM2QYW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1889,
+          "following_count": 178,
+          "like_count": 902,
+          "listed_count": 4,
+          "media_count": 113,
+          "tweet_count": 2190
+        },
+        "username": "boilingwatter",
+        "verified": false
+      }
+    ]
+  }
+}

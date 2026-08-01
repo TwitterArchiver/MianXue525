@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1814174084617666560",
+    "conversation_id": "2039779581226602967",
+    "created_at": "2026-04-03T07:31:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T08:31:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039969069299085621"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1620479004506730496",
+          "start": 0,
+          "username": "sjzmrfz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039969069299085621",
+    "in_reply_to_user_id": "1620479004506730496",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039784460921823402",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sjzmrfz 素！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1814174084617666560",
+        "conversation_id": "2039779581226602967",
+        "created_at": "2026-04-03T07:31:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T08:31:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039969069299085621"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1620479004506730496",
+              "start": 0,
+              "username": "sjzmrfz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039969069299085621",
+        "in_reply_to_user_id": "1620479004506730496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039784460921823402",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sjzmrfz 素！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620479004506730496",
+        "conversation_id": "2039779581226602967",
+        "created_at": "2026-04-02T19:18:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T20:18:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039784460921823402"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1814174084617666560",
+              "start": 0,
+              "username": "MianXue525"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039784460921823402",
+        "in_reply_to_user_id": "1814174084617666560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 53,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039779581226602967",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MianXue525 还有我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-19T05:43:11.000Z",
+        "description": "❄️♡⋰ ⋱♱⋰ ⋱♡⋰ ⋱♱⋰ ⋱♡⋰ ⋱♱⋰ ⋱♡ ❄️\n💉od｜双向｜精分｜餐劵｜无性别❄️\n❄️一个冰雪国度失眠的孩子若逃离了这里请收留我❄️\n❄️不眠雪 09休学 回fo餐劵od.跨妹.女孩子❄️ \n❄️网站链接提问箱欢迎来玩🫶🏻❄️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E4%B8%8D%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E4%B8%8D%E7%9C%A0%E9%9B%AA",
+                "start": 0,
+                "url": "https://t.co/lJEWqJRiAE"
+              }
+            ]
+          }
+        },
+        "id": "1814174084617666560",
+        "location": "距离你520米",
+        "name": "不眠雪❄️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032010530718904320/bue0uZZ-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1217,
+          "following_count": 315,
+          "like_count": 497,
+          "listed_count": 1,
+          "media_count": 123,
+          "tweet_count": 574
+        },
+        "url": "https://t.co/lJEWqJRiAE",
+        "username": "MianXue525",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-31T17:48:04.000Z",
+        "description": "线下🚪100\n只回关自己认识的人所以别私信问我了\n改成奇怪的名字是怕被现实里朋友发现\n不定期删推因为我废话太多了\n普通明日方舟，碧蓝档案，nikke玩家\n06年，19岁，已成年\ntg群https://t.co/M8SlHgT9oh",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+R19_K2lkL24wZ…",
+                "end": 115,
+                "expanded_url": "https://t.me/+R19_K2lkL24wZmM1",
+                "start": 92,
+                "url": "https://t.co/M8SlHgT9oh"
+              }
+            ]
+          }
+        },
+        "id": "1620479004506730496",
+        "location": "广深/京津",
+        "name": "泽渡可可",
+        "pinned_tweet_id": "2037085010466136146",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030737250112491520/YURp6Cgm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8173,
+          "following_count": 524,
+          "like_count": 36010,
+          "listed_count": 46,
+          "media_count": 280,
+          "tweet_count": 2702
+        },
+        "username": "sjzmrfz",
+        "verified": false
+      }
+    ]
+  }
+}

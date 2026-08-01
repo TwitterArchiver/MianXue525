@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2032513249720356864"
+      ]
+    },
+    "author_id": "1814174084617666560",
+    "conversation_id": "2032513319094136942",
+    "created_at": "2026-03-13T17:45:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-13T18:45:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2032513319094136942"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/f0CkMFBu1J",
+          "end": 41,
+          "expanded_url": "https://x.com/MianXue525/status/2032513319094136942/video/1",
+          "media_key": "13_2032513249720356864",
+          "start": 18,
+          "url": "https://t.co/f0CkMFBu1J"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032513319094136942",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "没有胸托…那我就摇吧(´･ω･`) https://t.co/f0CkMFBu1J"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7684,
+        "height": 1280,
+        "media_key": "13_2032513249720356864",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2032513249720356864/img/5CEw2sPif-OW_Dq7.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2032513249720356864/vid/avc1/320x568/3V-dtvgHsZcxz5Kt.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2032513249720356864/vid/avc1/480x852/LJgQi0eYn3BWmN_P.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2032513249720356864/vid/avc1/720x1280/BfKHrUeTNz_4MYJG.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2032513249720356864/pl/vtTaThIZxTGxhT--.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2032513249720356864"
+          ]
+        },
+        "author_id": "1814174084617666560",
+        "conversation_id": "2032513319094136942",
+        "created_at": "2026-03-13T17:45:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T18:45:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032513319094136942"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/f0CkMFBu1J",
+              "end": 41,
+              "expanded_url": "https://x.com/MianXue525/status/2032513319094136942/video/1",
+              "media_key": "13_2032513249720356864",
+              "start": 18,
+              "url": "https://t.co/f0CkMFBu1J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032513319094136942",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "没有胸托…那我就摇吧(´･ω･`) https://t.co/f0CkMFBu1J"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-19T05:43:11.000Z",
+        "description": "如果逃离了这里 请收留我",
+        "id": "1814174084617666560",
+        "name": "不眠雪",
+        "pinned_tweet_id": "2032439729279603152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032010530718904320/bue0uZZ-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 447,
+          "following_count": 235,
+          "like_count": 364,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 230
+        },
+        "username": "MianXue525",
+        "verified": false
+      }
+    ]
+  }
+}

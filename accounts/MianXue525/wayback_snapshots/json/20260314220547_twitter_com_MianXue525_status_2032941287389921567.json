@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2032941223380697088"
+      ]
+    },
+    "author_id": "1814174084617666560",
+    "conversation_id": "2032941287389921567",
+    "created_at": "2026-03-14T22:05:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-14T23:05:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2032941287389921567"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/m1a7pqEnQU",
+          "end": 31,
+          "expanded_url": "https://x.com/MianXue525/status/2032941287389921567/video/1",
+          "media_key": "13_2032941223380697088",
+          "start": 8,
+          "url": "https://t.co/m1a7pqEnQU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032941287389921567",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 2,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "大家不要西毒哦 https://t.co/m1a7pqEnQU"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11033,
+        "height": 1280,
+        "media_key": "13_2032941223380697088",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2032941223380697088/img/ixKOcrwc7UfKJP3x.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2032941223380697088/vid/avc1/320x568/VimhOpqVb31QAAk4.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2032941223380697088/vid/avc1/480x852/woFcsYQwehW5dJ5F.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2032941223380697088/vid/avc1/720x1280/RcqODdwiMXcn4wPk.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2032941223380697088/pl/wGnYlFo6vpGEfQw7.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2032941223380697088"
+          ]
+        },
+        "author_id": "1814174084617666560",
+        "conversation_id": "2032941287389921567",
+        "created_at": "2026-03-14T22:05:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T23:05:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032941287389921567"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/m1a7pqEnQU",
+              "end": 31,
+              "expanded_url": "https://x.com/MianXue525/status/2032941287389921567/video/1",
+              "media_key": "13_2032941223380697088",
+              "start": 8,
+              "url": "https://t.co/m1a7pqEnQU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032941287389921567",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大家不要西毒哦 https://t.co/m1a7pqEnQU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-19T05:43:11.000Z",
+        "description": "💉ed/od/双向/精分/无性别🧬\n💌不眠雪 09休学 168 48减肥中🎀\n   ❄️如果逃离了这里 请收留我❄️",
+        "id": "1814174084617666560",
+        "location": "冰天雪地",
+        "name": "不眠雪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032010530718904320/bue0uZZ-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 517,
+          "following_count": 255,
+          "like_count": 374,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 253
+        },
+        "username": "MianXue525",
+        "verified": true
+      }
+    ]
+  }
+}

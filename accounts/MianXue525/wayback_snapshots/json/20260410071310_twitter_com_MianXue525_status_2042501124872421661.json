@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2042501104383246337",
+        "3_2042501104408399872"
+      ]
+    },
+    "author_id": "1814174084617666560",
+    "conversation_id": "2042501124872421661",
+    "created_at": "2026-04-10T07:13:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T08:13:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042501124872421661"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/gjp46NcOS6",
+          "end": 40,
+          "expanded_url": "https://x.com/MianXue525/status/2042501124872421661/photo/1",
+          "media_key": "3_2042501104383246337",
+          "start": 17,
+          "url": "https://t.co/gjp46NcOS6"
+        },
+        {
+          "display_url": "pic.x.com/gjp46NcOS6",
+          "end": 40,
+          "expanded_url": "https://x.com/MianXue525/status/2042501124872421661/photo/1",
+          "media_key": "3_2042501104408399872",
+          "start": 17,
+          "url": "https://t.co/gjp46NcOS6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042501124872421661",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "哼哼^ω^其实我以前是朝天椒激推 https://t.co/gjp46NcOS6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2042501104383246337",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFhr7swbQAEGVJk.jpg",
+        "width": 1354
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2042501104408399872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFhr7s2bEAAJU-f.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042501104383246337",
+            "3_2042501104408399872"
+          ]
+        },
+        "author_id": "1814174084617666560",
+        "conversation_id": "2042501124872421661",
+        "created_at": "2026-04-10T07:13:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T08:13:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042501124872421661"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gjp46NcOS6",
+              "end": 40,
+              "expanded_url": "https://x.com/MianXue525/status/2042501124872421661/photo/1",
+              "media_key": "3_2042501104383246337",
+              "start": 17,
+              "url": "https://t.co/gjp46NcOS6"
+            },
+            {
+              "display_url": "pic.x.com/gjp46NcOS6",
+              "end": 40,
+              "expanded_url": "https://x.com/MianXue525/status/2042501124872421661/photo/1",
+              "media_key": "3_2042501104408399872",
+              "start": 17,
+              "url": "https://t.co/gjp46NcOS6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042501124872421661",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哼哼^ω^其实我以前是朝天椒激推 https://t.co/gjp46NcOS6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-19T05:43:11.000Z",
+        "description": "❄️♡⋰ ⋱♱⋰ ⋱♡⋰ ⋱♱⋰ ⋱♡⋰ ⋱♱⋰ ⋱♡ ❄️\n♡⋰ ♱💉od｜双向｜精分｜餐劵｜无性别❄️ ♱ ⋱♡\n♡ ❄️眠雪 09休学（回fo餐劵.od.跨妹.女孩子）❄️ ♡\n ♡⋰ 🌙 月は見ている時だけ存在💧 ⋱♡\n🐾♱❄️网站链接提问箱欢迎来玩🫶🏻❄️ ♱🐾",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E4%B8%8D%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E4%B8%8D%E7%9C%A0%E9%9B%AA",
+                "start": 0,
+                "url": "https://t.co/lJEWqJRiAE"
+              }
+            ]
+          }
+        },
+        "id": "1814174084617666560",
+        "location": "距离你520米",
+        "name": "不眠雪❄️",
+        "pinned_tweet_id": "2040247165252247975",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040922964645007360/CCSlCpXW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1893,
+          "following_count": 340,
+          "like_count": 581,
+          "listed_count": 1,
+          "media_count": 162,
+          "tweet_count": 743
+        },
+        "url": "https://t.co/lJEWqJRiAE",
+        "username": "MianXue525",
+        "verified": true
+      }
+    ]
+  }
+}

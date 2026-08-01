@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2030897862704541696",
+        "3_2030897862679445504",
+        "3_2030897862675202048"
+      ]
+    },
+    "author_id": "1814174084617666560",
+    "conversation_id": "2030897870275256820",
+    "created_at": "2026-03-09T06:45:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-09T07:45:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2030897870275256820"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/1dCDg3qQYT",
+          "end": 27,
+          "expanded_url": "https://x.com/MianXue525/status/2030897870275256820/photo/1",
+          "media_key": "3_2030897862704541696",
+          "start": 4,
+          "url": "https://t.co/1dCDg3qQYT"
+        },
+        {
+          "display_url": "pic.x.com/1dCDg3qQYT",
+          "end": 27,
+          "expanded_url": "https://x.com/MianXue525/status/2030897870275256820/photo/1",
+          "media_key": "3_2030897862679445504",
+          "start": 4,
+          "url": "https://t.co/1dCDg3qQYT"
+        },
+        {
+          "display_url": "pic.x.com/1dCDg3qQYT",
+          "end": 27,
+          "expanded_url": "https://x.com/MianXue525/status/2030897870275256820/photo/1",
+          "media_key": "3_2030897862675202048",
+          "start": 4,
+          "url": "https://t.co/1dCDg3qQYT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030897870275256820",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "自设集 https://t.co/1dCDg3qQYT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2030897862704541696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC8y2JGasAAy1Af.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1535,
+        "media_key": "3_2030897862679445504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC8y2JAbwAAYkRg.jpg",
+        "width": 1193
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2030897862675202048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC8y2I_bAAAg1Ro.jpg",
+        "width": 1430
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030897862704541696",
+            "3_2030897862679445504",
+            "3_2030897862675202048"
+          ]
+        },
+        "author_id": "1814174084617666560",
+        "conversation_id": "2030897870275256820",
+        "created_at": "2026-03-09T06:45:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T07:45:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030897870275256820"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1dCDg3qQYT",
+              "end": 27,
+              "expanded_url": "https://x.com/MianXue525/status/2030897870275256820/photo/1",
+              "media_key": "3_2030897862704541696",
+              "start": 4,
+              "url": "https://t.co/1dCDg3qQYT"
+            },
+            {
+              "display_url": "pic.x.com/1dCDg3qQYT",
+              "end": 27,
+              "expanded_url": "https://x.com/MianXue525/status/2030897870275256820/photo/1",
+              "media_key": "3_2030897862679445504",
+              "start": 4,
+              "url": "https://t.co/1dCDg3qQYT"
+            },
+            {
+              "display_url": "pic.x.com/1dCDg3qQYT",
+              "end": 27,
+              "expanded_url": "https://x.com/MianXue525/status/2030897870275256820/photo/1",
+              "media_key": "3_2030897862675202048",
+              "start": 4,
+              "url": "https://t.co/1dCDg3qQYT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030897870275256820",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "自设集 https://t.co/1dCDg3qQYT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-19T05:43:11.000Z",
+        "description": "如果逃离了这里 请收留我",
+        "id": "1814174084617666560",
+        "name": "不眠雪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029409903560015874/Hg496_qT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 47,
+          "like_count": 325,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 70
+        },
+        "username": "MianXue525",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1814174084617666560",
+    "conversation_id": "2032370061315620924",
+    "created_at": "2026-03-13T16:32:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-13T17:32:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032495099117285621"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1923206186868043776",
+          "start": 0,
+          "username": "BbFamous51"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032495099117285621",
+    "in_reply_to_user_id": "1923206186868043776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032494270834454669",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BbFamous51 对呀！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1814174084617666560",
+        "conversation_id": "2032370061315620924",
+        "created_at": "2026-03-13T16:32:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T17:32:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032495099117285621"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1923206186868043776",
+              "start": 0,
+              "username": "BbFamous51"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032495099117285621",
+        "in_reply_to_user_id": "1923206186868043776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032494270834454669",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BbFamous51 对呀！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1923206186868043776",
+        "conversation_id": "2032370061315620924",
+        "created_at": "2026-03-13T16:29:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T17:29:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032494270834454669"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1814174084617666560",
+              "start": 0,
+              "username": "MianXue525"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032494270834454669",
+        "in_reply_to_user_id": "1814174084617666560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032370061315620924",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MianXue525 dp吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-19T05:43:11.000Z",
+        "description": "如果逃离了这里 请收留我",
+        "id": "1814174084617666560",
+        "name": "不眠雪",
+        "pinned_tweet_id": "2032439729279603152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032010530718904320/bue0uZZ-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 442,
+          "following_count": 235,
+          "like_count": 364,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 227
+        },
+        "username": "MianXue525",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-16T02:37:51.000Z",
+        "description": "如果我富有的话 我愿意拯救所有女孩",
+        "id": "1923206186868043776",
+        "name": "爱翻垃圾吃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923206289964007427/1W2-d7Af_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 46,
+          "like_count": 519,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 145
+        },
+        "username": "BbFamous51",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2032882556643979267",
+        "3_2032882556664950784"
+      ]
+    },
+    "author_id": "1814174084617666560",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2032882568874569966",
+    "created_at": "2026-03-14T18:12:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-14T19:12:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2032882568874569966"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/alhxpJjBcX",
+          "end": 43,
+          "expanded_url": "https://x.com/MianXue525/status/2032882568874569966/photo/1",
+          "media_key": "3_2032882556643979267",
+          "start": 20,
+          "url": "https://t.co/alhxpJjBcX"
+        },
+        {
+          "display_url": "pic.x.com/alhxpJjBcX",
+          "end": 43,
+          "expanded_url": "https://x.com/MianXue525/status/2032882568874569966/photo/1",
+          "media_key": "3_2032882556664950784",
+          "start": 20,
+          "url": "https://t.co/alhxpJjBcX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032882568874569966",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "5今晚550mg普瑞巴林还有四颗没拍照 https://t.co/alhxpJjBcX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 866,
+        "media_key": "3_2032882556643979267",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDY_6iLaMAMa0o7.jpg",
+        "width": 1024
+      },
+      {
+        "height": 2047,
+        "media_key": "3_2032882556664950784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDY_6iQaMAAtdI0.jpg",
+        "width": 1710
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032882556643979267",
+            "3_2032882556664950784"
+          ]
+        },
+        "author_id": "1814174084617666560",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2032882568874569966",
+        "created_at": "2026-03-14T18:12:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T19:12:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032882568874569966"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/alhxpJjBcX",
+              "end": 43,
+              "expanded_url": "https://x.com/MianXue525/status/2032882568874569966/photo/1",
+              "media_key": "3_2032882556643979267",
+              "start": 20,
+              "url": "https://t.co/alhxpJjBcX"
+            },
+            {
+              "display_url": "pic.x.com/alhxpJjBcX",
+              "end": 43,
+              "expanded_url": "https://x.com/MianXue525/status/2032882568874569966/photo/1",
+              "media_key": "3_2032882556664950784",
+              "start": 20,
+              "url": "https://t.co/alhxpJjBcX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032882568874569966",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "5今晚550mg普瑞巴林还有四颗没拍照 https://t.co/alhxpJjBcX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-19T05:43:11.000Z",
+        "description": "💉ed/od/双向/精分/无性别🧬\n💌不眠雪 09休学 168 48减肥中🎀\n   ❄️如果逃离了这里 请收留我❄️",
+        "id": "1814174084617666560",
+        "location": "冰天雪地",
+        "name": "不眠雪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032010530718904320/bue0uZZ-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 512,
+          "following_count": 254,
+          "like_count": 374,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 252
+        },
+        "username": "MianXue525",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1814174084617666560",
+    "conversation_id": "2034665877648617718",
+    "created_at": "2026-03-19T16:18:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-19T17:18:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034665877648617718"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "831505321495392256",
+          "start": 3,
+          "username": "_Qincii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034665877648617718",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 56
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034375193670701222",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_Qincii: 抽奖搞波流量，好无聊：\n\n一等奖：88r（1人）\n二等奖：52r（2人）\n三等奖：18r（3人）\n参与奖：5.2r（10人）\n\n转发➕评论即可参与，感兴趣可以互fo找我聊天^^"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1814174084617666560",
+        "conversation_id": "2034665877648617718",
+        "created_at": "2026-03-19T16:18:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T17:18:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034665877648617718"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "831505321495392256",
+              "start": 3,
+              "username": "_Qincii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034665877648617718",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 56
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034375193670701222",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_Qincii: 抽奖搞波流量，好无聊：\n\n一等奖：88r（1人）\n二等奖：52r（2人）\n三等奖：18r（3人）\n参与奖：5.2r（10人）\n\n转发➕评论即可参与，感兴趣可以互fo找我聊天^^"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "831505321495392256",
+        "conversation_id": "2034375193670701222",
+        "created_at": "2026-03-18T21:03:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T22:03:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034375193670701222"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2034375193670701222",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 3006,
+          "like_count": 51,
+          "quote_count": 0,
+          "reply_count": 55,
+          "retweet_count": 56
+        },
+        "reply_settings": "everyone",
+        "text": "抽奖搞波流量，好无聊：\n\n一等奖：88r（1人）\n二等奖：52r（2人）\n三等奖：18r（3人）\n参与奖：5.2r（10人）\n\n转发➕评论即可参与，感兴趣可以互fo找我聊天^^"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-19T05:43:11.000Z",
+        "description": "♡⋰ ⋱♱⋰ ⋱♡⋰ ⋱♱⋰ ⋱♡⋰ ⋱♱⋰ ⋱♡ \n💉od｜双向｜精分｜餐劵｜无性别❄️\n❄️一个冰雪国度失眠的孩子如果逃离了这里请收留我\n❄️不眠雪 09休学 168 48减肥中查成分回fo❄️ \n❄️提问箱欢迎来玩🫶🏻",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E4%B8%8D%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E4%B8%8D%E7%9C%A0%E9%9B%AA",
+                "start": 0,
+                "url": "https://t.co/lJEWqJRiAE"
+              }
+            ]
+          }
+        },
+        "id": "1814174084617666560",
+        "location": "距离你520米",
+        "name": "不眠雪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032010530718904320/bue0uZZ-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 641,
+          "following_count": 262,
+          "like_count": 392,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 330
+        },
+        "url": "https://t.co/lJEWqJRiAE",
+        "username": "MianXue525",
+        "verified": true
+      },
+      {
+        "created_at": "2017-02-14T14:08:12.000Z",
+        "description": "可以叫我小业，发点日常、碎碎念，成分复杂^^感兴趣可互fo",
+        "id": "831505321495392256",
+        "name": "Vrrz_",
+        "pinned_tweet_id": "1479028152185671680",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033262304448622592/AaMN38G4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 29,
+          "like_count": 25,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 49
+        },
+        "username": "_Qincii",
+        "verified": false
+      }
+    ]
+  }
+}

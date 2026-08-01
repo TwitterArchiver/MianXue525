@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2031739202690527232"
+      ]
+    },
+    "author_id": "1814174084617666560",
+    "conversation_id": "2031739209590137120",
+    "created_at": "2026-03-11T14:29:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-11T15:29:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2031739209590137120"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/LI7288Jyk2",
+          "end": 34,
+          "expanded_url": "https://x.com/MianXue525/status/2031739209590137120/photo/1",
+          "media_key": "3_2031739202690527232",
+          "start": 11,
+          "url": "https://t.co/LI7288Jyk2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031739209590137120",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我要制作一个大胶囊！ https://t.co/LI7288Jyk2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2031739202690527232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDIwCkyasAAusqA.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2031739202690527232"
+          ]
+        },
+        "author_id": "1814174084617666560",
+        "conversation_id": "2031739209590137120",
+        "created_at": "2026-03-11T14:29:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T15:29:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031739209590137120"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LI7288Jyk2",
+              "end": 34,
+              "expanded_url": "https://x.com/MianXue525/status/2031739209590137120/photo/1",
+              "media_key": "3_2031739202690527232",
+              "start": 11,
+              "url": "https://t.co/LI7288Jyk2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031739209590137120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我要制作一个大胶囊！ https://t.co/LI7288Jyk2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-19T05:43:11.000Z",
+        "description": "如果逃离了这里 请收留我",
+        "id": "1814174084617666560",
+        "name": "不眠雪",
+        "pinned_tweet_id": "2031702182794612957",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029409903560015874/Hg496_qT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 160,
+          "following_count": 133,
+          "like_count": 342,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 121
+        },
+        "username": "MianXue525",
+        "verified": false
+      }
+    ]
+  }
+}

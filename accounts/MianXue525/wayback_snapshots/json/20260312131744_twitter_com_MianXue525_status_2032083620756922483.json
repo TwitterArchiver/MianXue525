@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2032083555770384391",
+        "3_2032083555753607168"
+      ]
+    },
+    "author_id": "1814174084617666560",
+    "conversation_id": "2031964183848501341",
+    "created_at": "2026-03-12T13:17:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-12T14:17:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032083620756922483"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/G37ZagtKY6",
+          "end": 66,
+          "expanded_url": "https://x.com/MianXue525/status/2032083620756922483/video/1",
+          "media_key": "13_2032083555770384391",
+          "start": 43,
+          "url": "https://t.co/G37ZagtKY6"
+        },
+        {
+          "display_url": "pic.x.com/G37ZagtKY6",
+          "end": 66,
+          "expanded_url": "https://x.com/MianXue525/status/2032083620756922483/video/1",
+          "media_key": "3_2032083555753607168",
+          "start": 43,
+          "url": "https://t.co/G37ZagtKY6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032083620756922483",
+    "in_reply_to_user_id": "1814174084617666560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032035412135539084",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "❄️感谢大家参与！请多多关照眠眠❄️\n梯子寄掉了现在才发不好意思哦\n目前两位已兑现！ https://t.co/G37ZagtKY6"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13436,
+        "height": 1280,
+        "media_key": "13_2032083555770384391",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2032083555770384391/img/ZFbBKUYPMY4uRSZO.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2032083555770384391/vid/avc1/320x696/z2pjWX5Rx0mRusMc.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2032083555770384391/vid/avc1/480x1044/9VcYTnknzvbFURVC.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2032083555770384391/vid/avc1/588x1280/JIDlOBtw0SVQ40Qx.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2032083555770384391/pl/E8vG3gEyeV9FB_vZ.m3u8"
+          }
+        ],
+        "width": 588
+      },
+      {
+        "height": 423,
+        "media_key": "3_2032083555753607168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDNpOj6bQAAqiCl.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2032083555770384391",
+            "3_2032083555753607168"
+          ]
+        },
+        "author_id": "1814174084617666560",
+        "conversation_id": "2031964183848501341",
+        "created_at": "2026-03-12T13:17:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T14:17:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032083620756922483"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/G37ZagtKY6",
+              "end": 66,
+              "expanded_url": "https://x.com/MianXue525/status/2032083620756922483/video/1",
+              "media_key": "13_2032083555770384391",
+              "start": 43,
+              "url": "https://t.co/G37ZagtKY6"
+            },
+            {
+              "display_url": "pic.x.com/G37ZagtKY6",
+              "end": 66,
+              "expanded_url": "https://x.com/MianXue525/status/2032083620756922483/video/1",
+              "media_key": "3_2032083555753607168",
+              "start": 43,
+              "url": "https://t.co/G37ZagtKY6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032083620756922483",
+        "in_reply_to_user_id": "1814174084617666560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032035412135539084",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "❄️感谢大家参与！请多多关照眠眠❄️\n梯子寄掉了现在才发不好意思哦\n目前两位已兑现！ https://t.co/G37ZagtKY6"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1814174084617666560",
+        "conversation_id": "2031964183848501341",
+        "created_at": "2026-03-12T10:06:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T11:06:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032035412135539084"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2032035412135539084",
+        "in_reply_to_user_id": "1814174084617666560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 143,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031964183848501341",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "截止至8:00好吗！人好多哦💕"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-19T05:43:11.000Z",
+        "description": "如果逃离了这里 请收留我",
+        "id": "1814174084617666560",
+        "name": "不眠雪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032010530718904320/bue0uZZ-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 360,
+          "following_count": 209,
+          "like_count": 360,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 201
+        },
+        "username": "MianXue525",
+        "verified": false
+      }
+    ]
+  }
+}

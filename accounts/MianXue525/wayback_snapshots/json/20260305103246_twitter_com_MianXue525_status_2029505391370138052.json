@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1814174084617666560",
+    "conversation_id": "2029505391370138052",
+    "created_at": "2026-03-05T10:32:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-05T11:32:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2029505391370138052"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2029505391370138052",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我现在住院是处于一个非常惨的状态我不能od不能抽烟不能暴饮暴食"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1814174084617666560",
+        "conversation_id": "2029505391370138052",
+        "created_at": "2026-03-05T10:32:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T11:32:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029505391370138052"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2029505391370138052",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我现在住院是处于一个非常惨的状态我不能od不能抽烟不能暴饮暴食"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-19T05:43:11.000Z",
+        "description": "眠｜自伤｜od｜ed｜双向｜欢迎互fo",
+        "id": "1814174084617666560",
+        "name": "不眠雪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029409903560015874/Hg496_qT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 51,
+          "like_count": 289,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 31
+        },
+        "username": "MianXue525",
+        "verified": false
+      }
+    ]
+  }
+}

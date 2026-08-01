@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1814174084617666560",
+    "conversation_id": "2031724269559050578",
+    "created_at": "2026-03-11T13:29:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-11T14:29:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2031724269559050578"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2031724269559050578",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "100fo感谢此评论抽奖❄️\n一等奖普瑞150mg一盒（可折现¥20）\n二等奖奶茶（可折现¥10）\n三等奖愚昧片（可折现¥8）\n💎我爱你💎"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1814174084617666560",
+        "conversation_id": "2031724269559050578",
+        "created_at": "2026-03-11T13:29:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T14:29:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031724269559050578"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2031724269559050578",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "100fo感谢此评论抽奖❄️\n一等奖普瑞150mg一盒（可折现¥20）\n二等奖奶茶（可折现¥10）\n三等奖愚昧片（可折现¥8）\n💎我爱你💎"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-19T05:43:11.000Z",
+        "description": "如果逃离了这里 请收留我",
+        "id": "1814174084617666560",
+        "name": "不眠雪",
+        "pinned_tweet_id": "2031702182794612957",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029409903560015874/Hg496_qT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 127,
+          "like_count": 341,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 118
+        },
+        "username": "MianXue525",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1814174084617666560",
+    "conversation_id": "2040302940406391252",
+    "created_at": "2026-04-04T05:55:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T06:55:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040307286623789064"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1791348768690089984",
+          "start": 0,
+          "username": "saya8964cat"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040307286623789064",
+    "in_reply_to_user_id": "1791348768690089984",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040306246553919903",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@saya8964cat 搓搓🫶🏻"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1814174084617666560",
+        "conversation_id": "2040302940406391252",
+        "created_at": "2026-04-04T05:55:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T06:55:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040307286623789064"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1791348768690089984",
+              "start": 0,
+              "username": "saya8964cat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040307286623789064",
+        "in_reply_to_user_id": "1791348768690089984",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040306246553919903",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@saya8964cat 搓搓🫶🏻"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1791348768690089984",
+        "conversation_id": "2040302940406391252",
+        "created_at": "2026-04-04T05:51:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T06:51:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040306246553919903"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1814174084617666560",
+              "start": 0,
+              "username": "MianXue525"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040306246553919903",
+        "in_reply_to_user_id": "1814174084617666560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040302940406391252",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MianXue525 可以搓搓雪雪吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-19T05:43:11.000Z",
+        "description": "❄️♡⋰ ⋱♱⋰ ⋱♡⋰ ⋱♱⋰ ⋱♡⋰ ⋱♱⋰ ⋱♡ ❄️\n♡⋰ ♱💉od｜双向｜精分｜餐劵｜无性别❄️ ♱ ⋱♡\n♡❄️不眠雪 09休学 回fo餐劵.od.跨妹.女孩子❄️ ♡\n ♡⋰ 🌙 月は見ている時だけ存在💧 ⋱♡\n🐾♱❄️网站链接提问箱欢迎来玩🫶🏻❄️ ♱🐾",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E4%B8%8D%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E4%B8%8D%E7%9C%A0%E9%9B%AA",
+                "start": 0,
+                "url": "https://t.co/lJEWqJRiAE"
+              }
+            ]
+          }
+        },
+        "id": "1814174084617666560",
+        "location": "距离你520米",
+        "name": "不眠雪❄️",
+        "pinned_tweet_id": "2040247165252247975",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032010530718904320/bue0uZZ-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1619,
+          "following_count": 331,
+          "like_count": 513,
+          "listed_count": 1,
+          "media_count": 137,
+          "tweet_count": 625
+        },
+        "url": "https://t.co/lJEWqJRiAE",
+        "username": "MianXue525",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-17T06:03:53.000Z",
+        "description": "这里是沙夜，顺男，esfj，swtich 恋爱人格集大成者，可交友，魔法使い🐈@owl8964cat 极少出现猫咪人格！如果你想聊天，就点击发送评论吧！(^з^)-☆ ngl匿名提问箱： https://t.co/0Uo3DcWNBu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 39,
+                "username": "owl8964cat"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/sa%E2%80%86ya%…",
+                "end": 117,
+                "expanded_url": "https://ngl.link/sa%E2%80%86ya%E2%80%86ca%E2%80%86t",
+                "start": 94,
+                "url": "https://t.co/0Uo3DcWNBu"
+              }
+            ]
+          }
+        },
+        "id": "1791348768690089984",
+        "location": "アモイ",
+        "name": "🍎天の川紗夜⭐️",
+        "pinned_tweet_id": "2023785537270935681",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973424771590410240/2BBwS0ug_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1152,
+          "following_count": 1227,
+          "like_count": 98607,
+          "listed_count": 4,
+          "media_count": 474,
+          "tweet_count": 40909
+        },
+        "username": "saya8964cat",
+        "verified": false
+      }
+    ]
+  }
+}
