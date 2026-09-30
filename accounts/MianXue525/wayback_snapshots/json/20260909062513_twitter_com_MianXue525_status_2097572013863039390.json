@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1814174084617666560",
+    "conversation_id": "2097035016224252150",
+    "created_at": "2026-09-09T06:25:13.000Z",
+    "display_text_range": [
+      23,
+      59
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-09T07:25:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097572013863039390"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1518404201168007168",
+          "start": 0,
+          "username": "godspeedyou50"
+        },
+        {
+          "end": 22,
+          "id": "1959893383633358848",
+          "start": 15,
+          "username": "Cbscfe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097572013863039390",
+    "in_reply_to_user_id": "1518404201168007168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097035016224252150",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@godspeedyou50 @Cbscfe 当时自己吃，白天和朋友玩还没觉得有什么。晚上回家后感觉耳朵里声音老恐怖了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1814174084617666560",
+        "conversation_id": "2097035016224252150",
+        "created_at": "2026-09-09T06:25:13.000Z",
+        "display_text_range": [
+          23,
+          59
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T07:25:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097572013863039390"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1518404201168007168",
+              "start": 0,
+              "username": "godspeedyou50"
+            },
+            {
+              "end": 22,
+              "id": "1959893383633358848",
+              "start": 15,
+              "username": "Cbscfe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097572013863039390",
+        "in_reply_to_user_id": "1518404201168007168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097035016224252150",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@godspeedyou50 @Cbscfe 当时自己吃，白天和朋友玩还没觉得有什么。晚上回家后感觉耳朵里声音老恐怖了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2097035016224252150",
+        "created_at": "2026-09-07T18:51:23.000Z",
+        "display_text_range": [
+          0,
+          121
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T19:51:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097035016224252150"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2097035016224252150",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "求你们对致幻剂有哪怕一丁点的敬畏心吧🙏\n（没特指任何人，而是最近….）\n仙人掌是入门里的入门 娱乐里的娱乐\n虽然是两码事，哪怕是娱乐用品，也要记住，\n\n致幻剂不会给你带来任何快感，它们只是放大，一切的感受，如果学会控制情绪，这将是最好的礼物。\n\n题外话是我永远认为赛洛西滨绝对能治疗精神疾病的。\n真的怕你们接触到色胺后会吓的自杀掉"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 37,
+          "impression_count": 18445,
+          "like_count": 254,
+          "quote_count": 4,
+          "reply_count": 64,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "求你们对致幻剂有哪怕一丁点的敬畏心吧🙏\n（没特指任何人，而是最近….）\n仙人掌是入门里的入门 娱乐里的娱乐\n虽然是两码事，哪怕是娱乐用品，也要记住，\n\n致幻剂不会给你带来任何快感，它们只是放大，一切的感受，如果学会控制情绪，这将是最好的礼物。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-07-19T05:43:11.000Z",
+        "description": "❄️♡⋰ ⋱♱⋰ ⋱♡⋰ ⋱♱⋰ ⋱♡⋰ ⋱♱⋰ ⋱♡ ❄️\n♡⋰ ♱💉od｜双向｜精分｜餐劵｜无性别❄️ ♱ ⋱♡\n♡ ❄️眠雪 09休学（回fo餐劵.od.跨妹.女孩子）❄️ ♡\n ♡⋰ 🌙 月は見ている時だけ存在💧 ⋱♡\n🐾♱❄️网站链接提问箱欢迎来玩🫶🏻❄️ ♱🐾",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E4%B8%8D%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E4%B8%8D%E7%9C%A0%E9%9B%AA",
+                "start": 0,
+                "url": "https://t.co/lJEWqJRiAE"
+              }
+            ]
+          }
+        },
+        "id": "1814174084617666560",
+        "is_identity_verified": false,
+        "location": "距离你520米",
+        "most_recent_tweet_id": "2097572013863039390",
+        "name": "不眠雪❄️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1814174084617666560/1775774952",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040922964645007360/CCSlCpXW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2014,
+          "following_count": 297,
+          "like_count": 737,
+          "listed_count": 0,
+          "media_count": 216,
+          "tweet_count": 1052
+        },
+        "url": "https://t.co/lJEWqJRiAE",
+        "username": "MianXue525",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个违背了大众良知od喝大酒的神棍。\n☯️算命后付不怕跑单｜代请符箓、祈福请私讯\n传统宗教现代哲学文化传播者，又称中式廉价心理医生。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/buyaogaowosorry",
+                "end": 23,
+                "expanded_url": "https://t.me/buyaogaowosorry",
+                "start": 0,
+                "url": "https://t.co/AdoFGQJldT"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097423382526689697",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2096142160496328763",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1518404201168007168/1777353629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1958,
+          "following_count": 699,
+          "like_count": 1386,
+          "listed_count": 1,
+          "media_count": 231,
+          "tweet_count": 3159
+        },
+        "url": "https://t.co/AdoFGQJldT",
+        "username": "godspeedyou50",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "马斯克我错了，让把我账号改成恐龙吧\n---\n信仰Cbscfe\n成为Cbscfe\n破碎的Cbscfe...\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病\n\n(outdated sync)\n---\n不健全，情绪不稳定，O&割，面基无伤人记录，有安全风险。坐标湖州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7pxALf"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "is_identity_verified": false,
+        "location": "minecraft:the_end",
+        "most_recent_tweet_id": "2097561260099510289",
+        "name": "Cbscfe",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1959893383633358848/1786816926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 687,
+          "following_count": 752,
+          "like_count": 25168,
+          "listed_count": 3,
+          "media_count": 241,
+          "tweet_count": 6989
+        },
+        "url": "https://t.co/5pZU7pxALf",
+        "username": "Cbscfe",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
